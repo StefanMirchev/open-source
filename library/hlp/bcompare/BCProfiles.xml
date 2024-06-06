@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCProfiles Version="1" MinVersion="1">
+	<TFtpProfile Value="chefo.local">
+		<Login>
+			<Host Value="chefo.local"/>
+		</Login>
+		<Server>
+			<CodePage Value="65001"/>
+		</Server>
+		<UseServerDefaults Value="False"/>
+	</TFtpProfile>
+</BCProfiles>

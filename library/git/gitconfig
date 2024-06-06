@@ -1,0 +1,82 @@
+[user]
+	email = si.mirchev@gmail.com
+	name = StefanMirchev
+	pass = 0987abcdl234
+	token = github_pat_..........................
+
+
+[credential]
+	helper = cache
+
+#  normal, black, red, green, yellow, blue, magenta, cyan, or white. 
+#  bold, dim, ul (underline), blink, and reverse
+[color]
+    ui = auto
+[color "branch"]
+    current = green black bold
+    local = white black bold
+    remote = red black bold
+[color "diff"]
+    meta = yellow bold
+    frag = magenta bold
+    old = red bold
+    new = green bold
+[color "status"]
+    added = cyan bold
+    changed = red black bold
+    untracked = red black bold
+
+# -----------------------------------------------
+# [diff]
+#         tool = kdiff3
+# [difftool "kdiff3"]
+#         path = /bin/kdiff3
+# [difftool]
+#         prompt = false
+#         keepBackup = false
+#         trustExitCode = false
+# [merge]
+#         tool = kdiff3
+# [mergetool]
+#         prompt = false
+#         keepBackup = false
+#         keepTemporaries = false
+# [mergetool "kdiff3"]
+#         path = /bin/kdiff3
+# ----------------------------------------------
+
+ [diff]
+         tool = bc3
+ [difftool "bc3"]
+         path = /usr/bin/bcompare
+ [difftool]
+         prompt = false
+         keepBackup = false
+         trustExitCode = false
+ [merge]
+         tool = bc3
+ [mergetool]
+         prompt = false
+         keepBackup = false
+         keepTemporaries = false
+ [mergetool "bc3"]
+         path = /usr/bin/bcompare
+
+
+#[merge]
+#  tool = bc3
+#[mergetool "bc3"]
+#  bcomparepath = /usr/bin/bcompare
+#  trustExitCode = true
+#  prompt = false
+
+[UC]
+  defdiffmerge = yes
+  defdiff = yes
+
+[core]
+	editor = /usr/bin/sublime_text
+        ed = ~/work/library/sublime/sublime-text.sh
+
+ 
+

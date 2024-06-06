@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html class="no-js" xml:lang="bg" lang="bg" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=Windows-1251" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE; IE=9; IE=8; IE=7; IE=10; IE=11; IE=EmulateIE11;" />
+    <title>UBB - Online Banking</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="msapplication-config" content="browserconfig.xml" />
+    <meta property="og:title" content="Online banking" />
+    <meta property="og:description" content="Online banking" />
+    <meta property="og:image" content="https://ebb.ubb.bg/images/tmb-bg-ubb.jpg" />
+    <meta property="og:url" content="https://ebb.ubb.bg" />
+    <link rel="shortcut icon" href="web/images/faviconNEW.ico" />
+    <link rel="icon" href="web/images/favicon.html" />
+    <link rel="icon" href="web/images/faviconNEW.png" />
+    <link rel="apple-touch-icon" href="web/images/apple-touch-icon.png" />
+    <link rel="stylesheet" href="web/css/normalize.min.css?ver=4" />
+    <link rel="stylesheet" href="web/css/main-dist.css?ver=5" />
+    <link rel="stylesheet" href="web/css/theme-business.css?ver=4" />
+    <script type="text/javascript" src="web/js/jquery-1.12.4.min.js?ver=4"> </script>
+    <script type="text/javascript">
+          var _root   = '';
+          var _public = 'web/index.html';
+          var xhr_url = 'bg/application/xhr.html';
+        </script>
+    <script type="text/javascript" src="Scripts/ClientScript1.js?ver=125"> </script>
+    <script type="text/javascript" src="Scripts/ClientScript3.js?ver=2"> </script>
+    <script type="text/javascript" src="Scripts/LogIn.js?ver=79"> </script>
+    <script type="text/javascript" src="Scripts/MessageScript.js?ver=80"> </script>
+    <script type="text/javascript" src="Scripts/head_log.js?ver=80"> </script>
+    <script type="text/javascript" src="web/js/plugins/jquery.bpopup.min.js?ver=4"> </script>
+    <script src="web/js/plugins/jquery.hoverIntent.min.js?ver=4" type="text/javascript"> </script>
+    <script type="text/javascript">
+          $(document).ready(function() {
+          checkBrowserVersion("BG");
+      });
+      $(document).ready(function () {
+      $("#LogButton").one('click', function (event) {
+      event.preventDefault();
+      $(this).prop('disabled', true);
+      document.getElementById('idfrm').submit();
+      });
+      });
+    </script>
+  </head>
+  <body>
+    <div class="site">
+      <header class="main-header">
+        <div class="header-inner no-border clearfix">
+          <div class="wrapper">
+            <a title="" class="ubb-logo">
+              <img src="web/images/ubb-logo-bg.svg" data-image="web/images/ubb-logo-bg.png" alt="Logo" />
+            </a>
+            <a class="btn-circle btn-highlight-2 fr" method="GET" href="Log.aspx?lng=EN&amp;redirectBack=" title="English Version">EN</a>
+            <form method="post" id="idfrm" action="log.aspx" class="login-form">
+              <div class="field">
+                <link rel="stylesheet" href="web/css/plugins/select2.css" />
+                <script src="web/js/plugins/select2.full.min.js?ver=3" type="text/javascript"> </script>
+                <div class="input input-account field-select filled">
+                  <label for="idLoginName">Потребител</label>
+                  <input type="text" data-validation="required" name="LoginName" id="idLoginName" value="" tabindex="1" alt="Потребител" title="Потребител" onPaste="return false" onCopy="return false" onCut="return false" autocomplete="off" />
+                </div>
+              </div>
+              <div class="field">
+                <div class="input input-password filled">
+                  <label for="idPass">Парола</label>
+                  <input type="password" id="idPass" name="Pass" data-validation="required" alt="Парола" title="Парола" size="15" value="" tabindex="2" onPaste="return false" onCopy="return false" onCut="return false" autocomplete="off" onkeypress="OnKeyPressBtnLog(event);" />
+                </div>
+              </div>
+              <div class="form-group">
+                <a id="LogButton" class="btn btn-primary" tabindex="3">Вход</a>
+              </div>
+              <div class="form-group">
+                <a class="simple-link" href="#" onclick="window.open('/F.aspx?lng=BG','crt','status=no,resizable=1,scrollbars=1,scrollbars=yes,left=200,top=150,width=1015,height=700');" title="Забравена парола">Забравена парола</a>
+                <a title="Регистрация" class="btn btn-highlight btn-reg-panel">Регистрация</a>
+                <div class="registration-block">
+                  <strong class="section-subtitle">Индивидуален клиент</strong>
+                  <p>За Индивидуални клиенти на ОББ, които нямат регистрация за онлайн банкиране.</p>
+                  <a href="https://ebb.ubb.bg/EbankReg/default.aspx" target="_blank" title="" class="btn btn-wide btn-highlight">Регистрирай се</a>
+                  <div class="business">
+                    <strong class="section-subtitle ">Корпоративен клиент</strong>
+                    <p>Бизнес клиенти на ОББ могат да се регистрират за онлайн банкиране в клон на Банката.</p>
+                  </div>
+                  <div class="close-overlay"> </div>
+                </div>
+              </div>
+              <input type="hidden" id="Oper" name="Oper" value="getSessP" />
+              <input type="hidden" id="idlng" name="lng" value="BG" />
+              <input type="hidden" name="paymentId" value="" />
+              <input type="hidden" name="BULK" value="" />
+              <input type="hidden" name="consentId" value="" />
+              <input type="hidden" name="redirectBack" value="" />
+              <input type="hidden" name="IDEinvoice" value="" />
+            </form>
+          </div>
+        </div>
+      </header>
+      <main class="main-content">
+        <section class="main-slider-section">
+          <script type="text/javascript" src="web/js/plugins/slick.min.js"> </script>
+          <link rel="stylesheet" href="web/css/plugins/slick.css" type="text/css" media="screen" />
+          <link rel="stylesheet" href="web/css/plugins/slick-theme.css" type="text/css" media="screen" />
+          <style>
+                    .main-slide-3 {background: url('web/images/slider-pic-1366-3-bg.jpg') no-repeat center top;}
+                    .main-slide-1 {background: url('web/images/slider-pic-1366-1-bg.jpg') no-repeat center top;}
+                     
+
+                    @media only screen and (min-width: 1800px) {
+                    .main-slide-3 {background-image: url('web/images/slider-pic-1920-3-bg.jpg');}
+                    .main-slide-1 {background-image: url('web/images/slider-pic-1920-1-bg.jpg');}
+                     
+                    }
+                    @media only screen and (max-width: 1366px) {
+                    .main-slide-3 {background-image: url('web/images/slider-pic-1366-3-bg.jpg');}
+                    .main-slide-1 {background-image: url('web/images/slider-pic-1366-1-bg.jpg');}
+                     
+                    }
+                    @media only screen and (max-width: 640px) {
+                    .main-slide-3 {background-image: url('web/images/slider-pic-640-3-bg.jpg');}
+                    .main-slide-1 {background-image: url('web/images/slider-pic-640-1-bg.jpg');}
+                     
+                    }
+                  </style>
+          <div class="main-slider" data-slick="{&quot;autoplay&quot;: true, &quot;autoplaySpeed&quot;: 5000}">
+            <div class="slide">
+              <a href="https://cyberstudy.ubb.bg/ataki-chrez-saobshteniya-smishing/" target="blank">
+                <div class="main-slide main-slide-3"> </div>
+              </a>
+            </div>
+            <div class="slide">
+              <a>
+                <div class="main-slide main-slide-1"> </div>
+              </a>
+            </div>
+          </div>
+        </section>
+        <section class="help-section padded-section">
+          <div class="wrapper">
+            <nav class="helper-nav">
+              <a href="https://www.ubb.bg/contacts/call_center" target="_blank" title="0 700 117 17">
+                <span class="helper-icon helper-icon-phone"> </span>
+                <span class="helper-text">
+                  <strong>0 700 117 17</strong>Обслужване на клиенти</span>
+              </a>
+              <a href="help/faq0BG_Re.html" target="_blank" title="Помощ">
+                <span class="helper-icon helper-icon-help"> </span>
+                <span class="helper-text">
+                  <strong>Помощ</strong>Често задавани въпроси</span>
+              </a>
+              <a href="https://youtu.be/Yuu2ed_zTwc?si=gim97YnziioKtCG7" target="_blank" title="ОББ Онлайн Демо">
+                <span class="helper-icon helper-icon-u-online"> </span>
+                <span class="helper-text">
+                  <strong>ОББ Онлайн</strong>Демо на системата</span>
+              </a>
+              <a href="help/security_BG_Re1.html" target="_blank" title="Сигурност">
+                <span class="helper-icon helper-icon-security"> </span>
+                <span class="helper-text">
+                  <strong>Сигурност</strong>Съвети за вашата защита</span>
+              </a>
+            </nav>
+          </div>
+        </section><section class="news-row light padded-section" xmlns=""><div class="wrapper">
+            <h2 class="section-title section-title-big">Ново в ОББ Oнлайн<a href="help/news0BG_Re.html" target="_blank" title="Виж всички" class="btn btn-white btn-small">Виж всички</a></h2>
+            <div id="news">
+              <ul class="news-list">
+                <li><a href="javascript:;" title="" onclick="isVisible('news1')"><time datetime="2023-11-24" class="time-block"><span class="date-day">24</span><span class="date-month">/11</span><span class="date-year">/23</span></time><strong class="news-title">Планирана техническа профилактика в ОББ Онлайн</strong><p>Бихме искали да Ви информираме, че с цел подобряване на качеството на нашите услуги на 25-26 ноември (събота и неделя) ще протече техническа профилактика, в резултат на която услугата за предоставяне на PDF извлечения в ОББ Онлайн ще бъде временно недостъпна.</p></a><a href="javascript:;" title="" onclick="isVisible('news2')"><time datetime="2023-10-18" class="time-block"><span class="date-day">18</span><span class="date-month">/10</span><span class="date-year">/23</span></time><strong class="news-title">Важна информация: Техническо спиране на мобилното и онлайн банкиране</strong><p>Бихме искали да Ви информираме, че с цел подобряване на качеството на нашите услуги в периода от 17 часа на 20.10.2023 г. до 22 часа на 22.10.2023 г. предстои техническо спиране на мобилните приложения ОББ Мобайл и КBC Mobile Bulgaria, както и на онлайн банкиранията ОББ Онлайн и KBC Online Bulgaria. Това означава, че те няма да бъдат достъпни за вас. </p></a></li>
+              </ul>
+            </div>
+            <div id="news">
+              <div class="hidden" id="news1"><article class="news-one"><header><time datetime="2023-11-24" class="time-block"><span class="date-day">24</span><span class="date-month">/11</span><span class="date-year">/23</span></time><strong class="news-title">Планирана техническа профилактика на ОББ Онлайн и ОББ Мобайл</strong></header><div class="text">
+                    <p>Уважаеми клиенти,</p>
+                    <p>Бихме искали да Ви информираме, че с цел подобряване на качеството на нашите услуги на 25-26 ноември (събота и неделя) ще протече техническа профилактика, в резултат на която услугата за предоставяне на PDF извлечения в ОББ Онлайн ще бъде временно недостъпна. </p>
+                    <p>Извиняваме се за причиненото неудобство и Ви благодарим за проявеното разбиране!</p>
+                    <p>С уважение,</p>
+                    <p>Екипът на ОББ</p>
+                  </div></article></div>
+              <div class="hidden" id="news2"><article class="news-one"><header><time datetime="2023-10-18" class="time-block"><span class="date-day">18</span><span class="date-month">/10</span><span class="date-year">/23</span></time><strong class="news-title">Важна информация: Техническо спиране на мобилното и онлайн банкиране</strong></header><div class="text">
+                    <p>Уважаеми клиенти,</p>
+                    <p>Бихме искали да Ви информираме, че с цел подобряване на качеството на нашите услуги в периода от 17 часа на 20.10.2023 г. до 22 часа на 22.10.2023 г. предстои техническо спиране на мобилните приложения ОББ Мобайл и КBC Mobile Bulgaria, както и на онлайн банкиранията ОББ Онлайн и KBC Online Bulgaria. Това означава, че те няма да бъдат достъпни за вас. </p>
+                    <p>В петък, 20.10.2023 г., клоновете ни ще работят с клиенти до 17 часа и няма да бъдат отворени в почивните дни.</p>
+                    <p>В посочения период няма да бъде възможно извършването на парични преводи и плащания между собствени сметки и към трети страни. Вашите плащания, наредени в петък преди 17 часа, ще бъдат осъществени безпроблемно.</p>
+                    <p>Всички операции с карти – теглене и внасяне на банкомат, плащания в магазинната мрежа и онлайн покупки, използване на дигитални портфейли - ще бъдат изцяло достъпни за вас. За всеки случай ви съветваме да осигурите достатъчно средства по своите сметки към карти преди посоченото техническо спиране. </p>
+                    <p>Tези трансакции ще бъдат отразени в първите работни дни след почивните дни. </p>
+                    <p>Плащанията на ПОС терминали във физическите и онлайн магазини ще се осъществяват, както обикновено. </p>
+                    <p>Извиняваме се за причиненото неудобство!</p>
+                    <p>С уважение,</p>
+                    <p>Екипът на ОББ</p>
+                  </div></article></div>
+            </div>
+          </div></section><section class="padded-section">
+          <div class="wrapper">
+            <h2 class="section-title section-title-big">Услуги</h2>
+            <div class="services-row">
+              <a href="help/ServicesBG1_Re.html" target="_blank" title="" class="service-box">
+                <span class="complex-icon complex-icon-deposit"> </span>
+                <strong>Депозити</strong>
+                <p><HOME.INFO16 xmlns="">Искате да получите най-добрата лихва за спестяванията си без много усилия?<br>Открийте депозит само с няколко клика.</HOME.INFO16></p>
+              </a>
+              <a href="help/ServicesBG2_Re.html" target="_blank" title="" class="service-box">
+                <span class="complex-icon complex-icon-account color-alt"> </span>
+                <strong>Сметки</strong>
+                <p><HOME.INFO18 xmlns="">Необходимо е да си откриете нова сметка?<br>Вече не е нужно да посещавате банков клон за това.</HOME.INFO18></p>
+              </a>
+              <a href="help/ServicesBG3_Re.html" target="_blank" title="" class="service-box">
+                <span class="complex-icon complex-icon-cards"> </span>
+                <strong>Карти</strong>
+                <p><HOME.INFO19 xmlns="">Трябва да захраните кредитната или да си откриете нова дебитна карта?<br>Бързо и сигурно онлайн - без формалности и опашки.</HOME.INFO19></p>
+              </a>
+              <a href="help/ServicesBG4_Re.html" target="_blank" title="" class="service-box">
+                <span class="complex-icon complex-icon-utilities color-alt"> </span>
+                <strong>Битови сметки</strong>
+                <p><HOME.INFO20 xmlns="">Не искате да чакате по каси и да мислите за крайните дати на неплатените си сметки?<br>Ние ще се погрижим за всичко.</HOME.INFO20></p>
+              </a>
+            </div>
+          </div>
+        </section>
+        <div class="banner-row padded-section" xmlns="">
+          <div class="wrapper">
+            <div class="banner-container" id="banners"><a href="https://ubbpay.bg/" title="https://ubbpay.bg/" target="_blank"><img src="web/images/assets/banner-700x220-bitovi-bg-green.png" data-image="web/images/assets/banner-700x220-bitovi-bg-green.png" alt="banner"></a><a href="https://www.ubb.bg/individual-clients/spestjavanija-i-smetki/razplashtatelna-smetka-aktivnost" title="https://www.ubb.bg/individual-clients/spestjavanija-i-smetki/razplashtatelna-smetka-aktivnost" target="_blank"><img src="web/images/assets/banner-700x220-deposit-activity.png" data-image="web/images/assets/banner-700x220-deposit-activity.png" alt="banner"></a></div>
+          </div>
+        </div>
+      </main><footer class="main-footer" xmlns=""><div class="footer-inner">
+          <div class="wrapper"><nav class="footer-nav"><a href="https://www.ubb.bg/terms" target="_blank" title="Общи условия">Общи условия</a><a href="https://www.ubb.bg/rates" target="_blank" title="Общи условия">Тарифи</a><a href="https://www.ubb.bg/contacts" target="_blank" title="Контакти">Контакти</a><a href="help/AccessibilityStatement-BG.pdf" target="_blank" title="Декларация за достъпност">Декларация за достъпност</a></nav><span class="copyright">© 2022 ОББ</span><span class="copyright copyright-studiox"><a href="https://www.ubb.bg" target="_blank" title="www.ubb.bg">www.ubb.bg</a></span></div>
+        </div></footer><script src="Scripts/posts.js?ver=4"> </script>
+      <script src="web/js/main.js?ver=8"> </script>
+    </div>
+  </body>
+</html>

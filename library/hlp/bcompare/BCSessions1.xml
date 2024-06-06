@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCSessions Version="1" MinVersion="1">
+	<TDirCompareSession Value="ACCO_HLP">
+		<LastModified Value="2021-06-26 12:57:58"/>
+		<Specs>
+			<Left Value="~/.HLP/"/>
+			<Right Value="smb://192.168.0.209/c/hlp"/>
+		</Specs>
+		<State>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="ACCO_WORK">
+		<LastModified Value="2021-06-26 12:57:58"/>
+		<Specs>
+			<Left Value="~/work/"/>
+			<Right Value="smb://192.168.0.209/d/work"/>
+		</Specs>
+	</TDirCompareSession>
+	<TDirCompareSession Value="CHEFO_IDISK">
+		<LastModified Value="2021-07-21 13:09:13"/>
+		<Specs>
+			<Left Value="/home/kosy/IDISK/LINUX/32-64"/>
+			<Right Value="smb://192.168.0.8/idisk/LINUX/32-64"/>
+		</Specs>
+	</TDirCompareSession>
+	<TDirCompareSession Value="CHEFO_WORK">
+		<LastModified Value="2021-07-21 13:01:44"/>
+		<Specs>
+			<Left Value="/home/kosy/work"/>
+			<Right Value="smb://192.168.0.8/work"/>
+		</Specs>
+		<State>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="INTER_WORK">
+		<LastModified Value="2023-09-10 18:54:12"/>
+		<Specs>
+			<Left Value="$HOME/work"/>
+			<Right Value="smb://192.168.0.207/home/inter-c/work"/>
+		</Specs>
+		<State>
+			<DirHandling Value="dirShowAll"/>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+		<TDirCompareSession Value="LENOVO">
+		<LastModified Value="2022-09-13 10:34:25"/>
+		<Specs>
+			<Left Value="/home/kosy/work"/>
+			<Right Value="ftp://android@192.168.0.204:2221//work"/>
+		</Specs>
+		<State>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="STEF_ALLO-01">
+		<LastModified Value="2021-06-26 12:57:58"/>
+		<Specs>
+			<Left Value="/home/kosy/.ALLO-01"/>
+			<Right Value="smb://192.168.0.203/D/ALLO-01"/>
+		</Specs>
+		<State>
+			<DirHandling Value="dirShowAll"/>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="STEF_ALLO-02">
+		<LastModified Value="2021-06-26 12:57:58"/>
+		<Specs>
+			<Left Value="/home/kosy/.ALLO-02"/>
+			<Right Value="smb://192.168.0.203/D/ALLO-02"/>
+		</Specs>
+		<State>
+			<DirHandling Value="dirShowAll"/>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="STEF_HAND">
+		<LastModified Value="2021-06-26 12:57:58"/>
+		<Specs>
+			<Left Value="/home/kosy/.HAND"/>
+			<Right Value="smb://192.168.0.203/C/HAND"/>
+		</Specs>
+		<State>
+			<DirHandling Value="dirShowAll"/>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="STEF_HLP">
+		<LastModified Value="2021-06-26 12:57:58"/>
+		<Specs>
+			<Left Value="~/.hlp/"/>
+			<Right Value="smb://192.168.0.203/c/hlp/"/>
+		</Specs>
+		<State>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="STEF_IDISK">
+		<LastModified Value="2021-06-26 12:57:58"/>
+		<Specs>
+			<Left Value="~/.IDISK/linux"/>
+			<Right Value="smb://192.168.0.203/d/IDISK/linux"/>
+		</Specs>
+		<State>
+			<DirHandling Value="dirShowAll"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="STEF_PHOTO-02">
+		<LastModified Value="2021-06-26 12:57:58"/>
+		<Specs>
+			<Left Value="/home/kosy/.HAND"/>
+			<Right Value="smb://192.168.0.203/C/HAND"/>
+		</Specs>
+		<State>
+			<DirHandling Value="dirShowAll"/>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="STEF_WORK">
+		<LastModified Value="2021-06-26 12:57:58"/>
+		<Specs>
+			<Left Value="/home/kosy/work/"/>
+			<Right Value="smb://192.168.0.203/d/work"/>
+		</Specs>
+		<State>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="МЕ301Т">
+		<LastModified Value="2022-09-13 10:34:25"/>
+		<Specs>
+			<Left Value="/home/kosy/work"/>
+			<Right Value="ftp://android@192.168.0.205:2221//work"/>
+		</Specs>
+		<State>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TDirCompareSession Value="work">
+						<LastModified Value="2022-09-13 15:07:55"/>
+						<Specs>
+							<Left Value="/home/kosy/work"/>
+							<Right Value="smb://192.168.0.205/work"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="work &lt;--> WORK">
+						<LastModified Value="2022-09-13 15:06:55"/>
+						<Specs>
+							<Left Value="/home/kosy/work"/>
+							<Right Value="ftp://android@192.168.0.204:2221/WORK"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+				</Items>
+			</TSessionFolder>
+			<TDirCompareSession>
+				<State>
+					<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+				</State>
+			</TDirCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>

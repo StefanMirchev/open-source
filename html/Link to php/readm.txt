@@ -1,0 +1,3 @@
+ ❗❗❗   NEVER RUN PHP FLIE FRON HTML BECAWSE NOT POSIBLE    ❗❗❗
+
+                  RUN HTML  FROM PHP

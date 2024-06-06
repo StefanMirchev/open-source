@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCPreferences Version="1" MinVersion="1">
+	<TBcPrefs>
+		<ArchiveMasks>
+			<Zip Value="*.zip;*.jar;*.ear;*.war;*.bcpkg"/>
+		</ArchiveMasks>
+		<OpConfirmCopy Value="False"/>
+		<TextContextLines Value="11"/>
+		<WorkspaceAutoLoadName Value="DISK"/>
+		<WorkspaceAutoSaveName Value="DISK"/>
+		<Workspaces>
+			<Item Value="CHEF">
+				<Windows>
+					<_0>
+						<PosStr Value="151;40;1239;694"/>
+						<Tabs>
+							<_0>
+								<ZOrder Value="0"/>
+							</_0>
+						</Tabs>
+						<ZOrder Value="0"/>
+					</_0>
+				</Windows>
+			</Item>
+			<Item Value="DISK">
+				<Windows>
+					<_0>
+						<PosStr Value="476;195;1467;651"/>
+						<Tabs>
+							<_0>
+								<ZOrder Value="0"/>
+							</_0>
+						</Tabs>
+						<ZOrder Value="0"/>
+					</_0>
+				</Windows>
+			</Item>
+			<Item Value="kosy01">
+				<Windows>
+					<_0>
+						<PosStr Value="476;195;1467;651"/>
+						<Tabs>
+							<_0>
+								<ZOrder Value="0"/>
+							</_0>
+						</Tabs>
+						<ZOrder Value="0"/>
+					</_0>
+				</Windows>
+			</Item>
+			<Item Value="PETQ">
+				<Windows>
+					<_0>
+						<PosStr Value="151;40;1091;690"/>
+						<Tabs>
+							<_0>
+								<ZOrder Value="0"/>
+							</_0>
+						</Tabs>
+						<ZOrder Value="0"/>
+					</_0>
+				</Windows>
+			</Item>
+		</Workspaces>
+	</TBcPrefs>
+</BCPreferences>

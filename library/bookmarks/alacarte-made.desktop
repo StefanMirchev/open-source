@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=MAIN
+Exec=/home/kosy/work/proc/main.sh
+Comment=
+Terminal=false
+Icon=/home/kosy/work/library/image/icon/myjob.ico
+Type=Application

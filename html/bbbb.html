@@ -1,0 +1,36 @@
+<html>
+<head><title>Practice</title>
+
+<script language="javascript" type="text/javascript">  
+function disableCopy()  
+{  
+alert("You cannot perform Copy");  
+return false;  
+}  
+
+function disablePaste()  
+{  
+alert("You cannot perform Paste");  
+return false;  
+}  
+
+function disableCut()  
+{  
+alert("You cannot perform Cut");  
+return false;  
+}  
+
+
+function disableContextMenu()  
+{  
+alert("You cannot perform right click via mouse as well as keyboard");  
+return false;  
+}  
+</script>
+</head>
+<body>
+
+Password:<input type="password" oncopy="return disableCopy();" onpaste="return disablePaste();" oncut="return disableCut();" oncontextmenu="return disableContextMenu();"/>
+
+</body>
+</html>

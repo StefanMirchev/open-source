@@ -1,0 +1,13 @@
+button { border: none; color: white; padding: 8px 12px; text-decoration: none;
+    font-size: 16px; background-color: brown; }
+
+button:hover { background-image: linear-gradient(   
+/*                   1️⃣                   2️⃣     light color      2️⃣                       1️⃣ */
+to bottom, shade(#18252B, 1.00), shade(#EE5D5D, 1.00) 35%,shade(#EE5D5D, 1.00) 65%, shade(#18252B, 1.00));
+   color: #95E7F0; box-shadow: inset 0 1px #77DEFC; -gtk-icon-effect: highlight; color: aqua; }
+
+button:active,     /* Pressed button color*/
+  button:checked { background-image: linear-gradient(
+/*                   2️⃣                    4️⃣     dark color        4️⃣                       2️⃣ */
+  to bottom, shade(#EE5D5D, 1.00), shade(#E33636, 1.00) 35%, shade(#E33636, 1.00) 65%, shade(#EE5D5D, 1.00));
+  transition-duration: 50ms; }

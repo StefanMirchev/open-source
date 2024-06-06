@@ -1,0 +1,52 @@
+TO-total size  Fr-free size Ma-max size file F-folder upload
+Storage  To  Free Ma F email             Rease
+4Shared   ❌  2.0  000 N si.mirchev@gmail.com    not valid
+4Shared   15 10.0  000 N si_mirchev@abv.bg
+ASUS       5  3.7  000 N si.mirchev@gmail.com
+BOX       10  7.4  000 Y si.mrchev@gmail.com
+BOX       10  9.4  000 Y si.mrchev01@gmail.com
+BLOMP     20 12.0  000 N si.mirchev@gmail.com
+BLOMP     20 13.0  000 N si.mirchev01@gmail.com
+COZY       5  1.0  000 N simirchev   si.mirchev@abv.bg
+COZY       5 00.0  000 N simirchev2  si.mirchev@yandex.com
+DEGOO     20 00.0  250 Y si.mirchev@abv.bg     empty aa11bb22
+DEGOO     20  4.3  250 N si.mirchev@gmail.com
+G.DRIVE   15  7.2  000 N si.mirchev@gmail
+G.DRIVE   15  0.8  000 N si.mirchev01@gmail
+G.DRIVE   15  7.7  000 N si.mirchev02@gmail
+G.DRIVE   15  9.0  000 N si.mirchev04@gmail999999999999999999
+IDRIVE    5  00.0  000 Y si.mirchev@gmail.com
+IDRIVE    5   3.7  000 Y si.mirchev01@gmail.com
+IDRIVE    10  6.3  000 Y si.mirchev02@gmail.com
+ICEdrive  10  8.8  000 Y si.mirchev@abv.bg
+ICEdrive  10  7.0  000 Y si.mirchev@gmail.com
+ICEdrive  10  5.8  000 Y si.mirchev01@gmail.com
+Koofr     10  1.0  000 Y si.mirchev@abv.bg
+Koofr     10  2.3  000 Y si.mirchev@gmail.com
+MediaFire 10 00.0  000 Y si.mirchev@abv.bg
+MediaFire 12  4.0  000 Y si.mrchev@gmail.com
+MediaFire 12  2.0  000 Y si.mrchev01@gmail.com 
+MegaSync  20 20.0  000 Y si_mirchev@abv.bg
+MegaSync  20 14.0  000 Y si.mirchev@yandex.com 
+MegaSync  20  8.0  000 Y si.mirchev01@gmail.com
+MegaSync  20 11.2  000 Y si.mirchev02@gmail.com
+OBLAKO     8  1.3  000 Y si.mirchev@mail.ru
+OBLAKO     8 00.0  000 Y si.mirchev01@mail.ru  A^11bb22
+OBLAKO     8 00.0  000 Y si.mirchev02@mail.ru  A^11bb22
+OBLAKO     8 00.0  000 Y si.mirchev01@mail.ru  A^11bb22
+ONEDRIVE   5 00.0  000 N si.mirchev01@gmail.com empty di0
+ONEDRIVE   5  1.4  000 N si.mirchev02@gmail.com
+PCLOUD    10  0.5  000 Y si.mirchev@gmail.com
+PCLOUD    10  0.8  000 Y si.mirchev01@gmail.com
+PCLOUD    10  2.2  000 Y si.mirchev02@gmail.com
+SYNC       6  5.0  000 N si.mirchev@gmail.com
+SYNC       6 00.0  000 N si.mirchev02@gmail.com  ????
+YANDEX     5  7.7  000 N simirchev@yandex.com
+YANDEX     5  3.0  000 N simirchev02@yandex.com A^11bb22
+                          NOT USE
+4Sync     ❌ si.mirchev@gmail.com" 01 di0
+Amazon    ❌ 00  000 N si.mirchev@gmail.com  A^11bb22 
+Amazon    ❌ 00  000 N si.mirchev01@gmail.com di0 
+Mimedia   ❌ 00  000 N si.mirchev@abv.bg  aa11bb22
+INTERNXT  ❌ 00  000 N si_mirchev@abv.bg
+Securesafe❌

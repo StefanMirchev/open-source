@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=SMPlayer
+Exec=/bin/smplayer
+Comment=
+Terminal=false
+Icon=smplayer
+Type=Application

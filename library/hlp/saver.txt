@@ -1,0 +1,1000 @@
+git@github.com:StefanMirchev/open-source.git
+
+
+В репо accounting е пълен набор от разработения и ползван счетоводен инструментариум.
+Има качени няколко фирми от последните две години за образец. 
+
+git push REMOTE --all
+git log origin/master
+
+ git remote add origin https://github.com/StefanMirchev/accounting-.git  
+
+accounting
+
+Create Personal Access Token on GitHub
+From your GitHub account, go to Settings => Developer Settings => Personal Access Token => Generate New Token (Give your password) => Fillup the form => click Generate token => Copy the generated Token, it will be something like
+
+
+StefanMirchev
+0987abcdl234
+
+ git push -u origin master
+
+si.mirchev@gmail.com
+0987abcdl234 
+
+
+
+19d75e1
+
+7868f33
+
+Здр. Новакови, Нокога няма да забравя че ти ми купи първия телефон, който още работи и го зарежадам от време на време и му слага SIM - перфектен и затуй имам едно питане. Телефонът ми угасна днес и май няма да светне. Ако си се занимавал наскоро или имаш някакъв опит на темата 
+дай мнение и евентуално предложение какво и къде да търся до 300,00лв. Може и познат по-запознат.  
+
+Здр. Теча, имам едно питане. Телефонът ми угасна днес и май няма да светне. Знам че наскоро си купува телефон та въпросът ми е за мнение
+и евентуално предложение какво и къде да търся до 300.00лв. Или познат по-запознат.
+
+Здр. Митаче, имам едно питане. Телефонът ми угасна днес и май няма да светне. Знам че наскоро си купува телефон та въпросът ми е за мнение
+и евентуално предложение какво и къде да търся. Или познат по-запознат. Знам, че и Борко скоро си беше купувал тел. и ако не е проблем да ми дадеш тел. му да го питам. Когато ти е удобно ми звънни. 
+
+Здр. Ивошкин, как си приятелю, имам едно питане. Телефонът ми угасна днес и май няма да светне. Знам, че се интересуваш от техника та въпросът ми е за мнение и евентуално предложение какво и къде да търся. Или познат по-запознат. Пиши ми или ми се обади ако имаш идея. 
+
+
+ si_mirchev@abv.bg  aa11bb22 
+ si.mirchev@abv.bg  aa11bb22 
+ 
+
+   <button onclick="copyText()">bg-gledai si.mirchev@abv.bg  aa11bb2</button>  
+     <script>
+    function copyText() {
+      navigator.clipboard.writeText(" si.mirchev@abv.bg  aa11bb22 ");
+                        }  
+  </script>
+
+     <button onclick="copyText()">bg-time.tv si.mirchev@abv.bg  aa11bb2</button>  
+     <script>
+    function copyText() {
+      navigator.clipboard.writeText(" si.mirchev@abv.bg  aa11bb22 ");
+                        }  
+  </script>
+
+
+
+
+   WshShell.Run "TASKKILL /F /IM jp2launcher.exe", 0, Fal
+    WshShell.Run "TASKKILL /F /IM jp2launcher.exe", 0, Falsh
+    WScript.Sleep 3000
+    call WshShell.Run("C:\Windows\System32\VBoxService.exe" , 0, Falsh)
+    WScript.Sleep 3000
+    call WshShell.Run("C:\Windows\System32\VBoxControl.exe" , 0, Falsh)
+    WScript.Sleep 3000
+    call WshShell.Run("C:\Windows\System32\VBoxTray.exe" , 0, Falsh)
+    Wscript.Quit 
+
+audio_equalizer=-53, -53, -53, -23, 11, 65, 95, 95, 95, 95
+initial_audio_equalizer=-53, -53, -53, -23, 11, 65, 95, 95, 95, 120
+
+Здравейте! От 01.07.2024 г. цената на основната ТВ услуга, която включва MAX Sport Plus, DIEMA XTRA, HBO и HBO&Cinemax, се увеличава, както следва: Max Sport Plus и DIEMA XTRA с по 1 лв. с ДДС, HBO/HBO&Cinemax с 2 лв. с ДДС. Информация и стъпки за промяна или прекратяване без санкции в срок от 1 месец след уведомяването, вижте на www.a1.bg/pricejuly2024
+
+git diff --staged
+
+Свестните у нас считат за луди,
+глупецът, вредом всеки почита:
+„Богат е“, казва, пък го не пита
+колко е души изгорил живи,
+сироти колко той е ограбил
+и пред олтарят бога измамил
+с молитви, с клетви, с думи лъжливи.
+
+
+Ооо Боби здравей. В събота навъртяха 37 километра с колелото после оплевих двата гроба на мама и тате, навеждай се изправя се и като му легнах в събота сега отлепих. сега съм на линия когато ти е удобно се обади. 
+
+
+
+
+cd ~/work/git  
+echo "# Accounting" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/StefanMirchev/Accounting.git
+git push -u origin master
+
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/StefanMirchev/aaaaaa.git
+git branch -M master
+git push -u origin master
+
+Ctrl+Tab is a keyboard shortcut commonly used in computing to switch between open tabs or applications within a software program or web browser.
+"How switch between open tabs or applications with linux command"
+
+linux command switch between two windows via terminal
+
+https://github.com/davatorium/rofi
+
+wcmtrl -a PHP_commands
+
+str0='aaaaaaaa ^ bbbbbbbbbbbbbb ^ cccccccccc' 
+echo $(echo $str0 | cut -d '^' -f1 )          
+echo $(echo $str0 | cut -d '^' -f2 )          
+echo $(echo $str0 | cut -d '^' -f3 )          
+
+
+
+Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+Please type 'yes', 'no' or the fingerprint: yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+
+export web00=" https://github.com/settings/keys"; export brs00=1 ; ~/work/proc/browser.sh
+http0='https://github.com/settings/keys'
+http1=export web00=" $http0" ; export brs00=1 ; /home/inter/work/proc/browser.sh
+
+
+ warning: You appear to have cloned an empty repository
+
+
+ssh 
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+if show 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+it is bekowse after 
+ls -l /home/$USER/.ssh/id_rsa
+Result -> -rw-rw-rw- 1 inter inter  565 Sep 29  2023 id_rsa.pub
+
+Exequte -> 
+chmod 0400 /home/$USER/.ssh/id_rsa
+chown $USER:$USER /home/$USER/.ssh/id_rsa
+ls -l /home/$USER/.ssh/id_rsa
+if ok result -> -r-------- 1 user1 user1 2590 Oct 10 06:56 /home/inter/.ssh/id_rs
+
+read ssh key -> Fine-grained personal access tokens -> https://github.com/settings/tokens?type=beta
+
+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
+
+
+
+https://replit.com/@simirchev/INVOICE 
+
+
+
+             '0. Exit         ' $fo0 'sans 11' \
+             '1. Menual       ' $fo0 'sans 11' \
+             '2. Examples     ' $fo0 'sans 11' \
+             '                ' 'black' '#FFDB00' 'sans 11'
+
+UBB - Online Banking 
+
+
+ЗАД АЛИНЦ-БЪЛГАРИЯ      BG28BUIN 7855 1080 0001 19
+
+
+HKEY_CURRENT_USER\Software\Classes\http\shell\open\command
+HKEY_CURRENT_USER\Software\Classes\https\shell\open\command
+HKEY_CURRENT_USER\Software\Classes\ftp\shell\open\command
+
+Преводът е спрян за допълнително потвърждение от служител на ОББ. В случай, че не успеем да се свържем с Вас, както и в извън работното време, моля свържете се с Контактен център на тел. 0700 117 17 или *7171 за страната и на +3592 483 1717 за връзка от чужбина. Служителят на ОББ няма да изисква от Вас предоставянето или въвеждането на пароли или получени кодове (SMS, токен, ПИН и др.), които знаете само Вие!
+6080430032 
+/home/kosy/.config/simple-scan/state
+
+Преводът е спрян за допълнително потвърждение от служител на ОББ. В случай, че не успеем да се свържем с Вас, както и в извън работното време, моля свържете се с Контактен център на тел. 0700 117 17 или *7171 за страната и на +3592 483 1717 за връзка от чужбина. Служителят на ОББ няма да изисква от Вас предоставянето или въвеждането на пароли или получени кодове (SMS, токен, ПИН и др.), които знаете само Вие!
+
+
+"sublime text 2 Cyrillic DOS  Packages"
+
+Eееех Новакова, Новакова, колко пъти да ти го обяснявам едно и също нещо - НЕ ебан мъж евровизия НЕ печели. Пък ти още нимой да разбереш!? Мама му стара не можах да обърна резбата, ама и́ не опитах. Такования и на конкурс ще го зачетат и хемороидите ще му на́врът на място. И ся вий таме дето честичко навестявате Швейцарията, разбрахте ли кой туй швецарско нещо д'ет спечелило
+конкурса на сите европейци, ни тук са питам и нимойм разберм юще. 
+
+
+
+
+https://tutorials.bg/kursove/git/vuvedenie-v-git/vuvedenie-v-git-instalatsiya-pod-linux
+si.mirchev01
+A^11bb22
+
+
+
+
+Eddie Grant - Electric avenue
+Asia - Heat of the moment
+Darin - Electric
+Def Leppard - Armageddon It
+Bombalurina - Itsy Bitsy Teeny Weeny Yellow Polka
+Purple Disco Machine & ÁSDÍS - Beat Of Your Heart
+T'pau - Heart and Soul
+Electric Light Orchestra - Don't Bring Me
+Moody Blues - Nights in white satin
+Secret Star - I Need A Man
+D. White - How Are You - Italo Remix
+Magic System D.J. - Frozen Hearts
+Siberian Heat - Shadows (ZYX Long Mix)
+Rose Laurens - Africa (Voodoo Master)
+
+Savage - Lonely Night - Italo Remix
+
+
+ Italo-Disco - 128 kbit/s
+ IP music - MP3@256 Kb/s - 256 kbit/s
+ Fantasy Radio for Devizes - 128 kbit/s
+
+Митаче имам излизане, към 15:30 ще мина през тебе. Като дойда искам да ми кажеш решен ли проблема с твоята счетоводителка.
+Пращам ти цялата кореспонденция с нея
+
+
+
+Уважаема г-жо Неделчева, пращам Ви копие на ТЕЛК. 
+Има ли нещо не ясно по проблема на Митко? 
+
+Ще пиша  по-късно сега не мога
+
+
+
+Пепе за вчера съжалявам ама не е моя начин на общуване. Аз не ти се обадих в 18:20 и да ви каже "тръгвайте в 18:30", а се обадих два часа по-рано, т.е. човек спокойно да си нагласи нещата до часа на уговорката. Аз дойдох в 18:30 звънях, звънях - никой няма,а очаквах да ме чакате готови пред вас. Върнах се чаках, съблякох и чаках до 17:10 часа. По-предната вечер с половин Франция говори, а на мене един тел. не ми се обади да ми кажеш, че няма да си спазиш уговорката. Варианта "А бе имам уговорка, ама аз когато си искам ще се обадя, той там да си дреме и да чака друга рабата няма", хич не ми се вързва с добрите партньорски отношения. От мене за сега лек път и успех!
+
+Oooooo съжалявам ама никога не лъжа. Аз в 18:30 звънях ма врата ти, но както и да е. 
+
+
+Госпожо, написах Ви много подробно нормативната уредба. Самоосигурящото се лице, което продължава да упражнява дейността следва да подава декл обр.1 само здравно осигуряване. Това го знае всеки, който се е занимавал с този проблем, то няма казус тука как да разбирам "Вие сериозно ли? Проблем?" ???  
+
+Не аз определям желанието на Самоосигурящото се лице как ще формира пенсионния си стаж, законодателят му е дал право да избира това сам и Митко ми каза, че ще продължи дейността и следователно трябва да прави само здравно осигуряване. Аз няма какво повече да Ви кажа. Говорете с него. Аз така или иначе днес имам излизане и ще мина през него.
+
+Ооооооооооооооооооо госпожо ама Ви продължавате да ме изненадвате и то много меко казано. На Митко съм му обяснил абсолютно всички ситуации, които произтичат от неговия ТЕЛК, включително и това, че може да подадем  ОКД-5 да преустановим 
+дейността и няма да плаща дори и здравни осигуровки. Но му обясних, че при проверка, проверяващи ще констатират, че осъществява дейност и може да има проблем, и той се съгласи на варианта да внася само здравно осигуровки. Вие не коментирахте ли с него до сега всичко това?  
+
+Митко ме чака да му кажа дали съм Ви обяснил всичко.
+
+
+Здравейте колежке телефон Ви ми го даде Митко. 
+Не ви се обаждам, защото аз не мога да бъда по-екзактен, от това което пише в законодателството.  
+
+Самоосигуряващо се лице, получава решение на ТЕЛК
+
+1.   КСО дава възможност на тези от тях, на които е отпусната пенсия, да избират дали да се осигуряват 
+социално. Основание за това е разпоредбата на чл. 4, ал. 6 от КСО, ЗЗО, чл.40, ал.1, т.2. 
+„осигуряване. (6) (Нова - ДВ, бр. 64 от 2000 г., изм. и доп., бр. 99 от 2009 г., в сила от 1.01.2010 г.) Лицата по ал. 3, т. 1, 2, 4 - 6, на които е отпусната пенсия, се осигуряват по свое желание. (7) (Нова - ДВ, бр. 113 от 2007 г., изм., бр. 109 от 2008 г., в сила от 1.01.2009„
+2. ПОСТАНОВЛЕНИЕ № 199 ОТ 7 АВГУСТ 2020 Г. ЗА ИЗМЕНЕНИЕ И ДОПЪЛНЕНИЕ НА НАРЕДБАТА ЗА ОБЩЕСТВЕНО ОСИГУРЯВАНЕ НА САМООСИГУРЯВАЩИТЕ СЕ ЛИЦА, БЪЛГАРСКИТЕ ГРАЖДАНИ НА РАБОТА В ЧУЖБИНА И МОРСКИТЕ ЛИЦА, ПРИЕТА С ПОСТАНОВЛЕНИЕ № 30 НА МИНИСТЕРСКИЯ СЪВЕТ ОТ 2000 Г. (ДВ, БР. 21 ОТ 2000 Г.)
+В сила от 01.01.2020 г.
+Обн. ДВ. бр.71 от 11 Август 2020г.
+2. Алинея 6 се изменя така:
+"(6) Самоосигуряващите се лица по чл. 4, ал. 3, т. 1, 2 и 4 от Кодекса за социално осигуряване, на които е отпусната пенсия, се осигуряват по предвидения с наредбата ред, по свое желание, изразено, както следва:
+за лицата, които не са прекъснали или прекратили трудовата дейност, съответно осигуряването си, след като им е отпусната пенсия - с продължаване подаването на данните по чл. 5, ал. 4, т. 1 от Кодекса за социално осигуряване;
+
+ОКД-5 НЕ СЕ ПОДАВА. ПОДАВА СЕ САМО ДРКЛ. ОБР 1 ЗА ЗАДРАВНО ОСИГУРЯВАНЕ.
+
+Интернет гъмжи от коментари на тази тема, и честно казано съм изненадан, че сама не можете да се справите. Успех. Стефан Мирчев
+
+
+
+Направо ти препоръчвам грабвай багажа и тръгвай за гарата и смени часа иначе вероятността да си
+загубиш деня е много голяма. 
+
+
+Моето предложение е следното. Пиши ми точен час кока кога ще идваш насам. Аз те чакам на паметника на сиропиталището, то е от посока нова поща се вижда много добре, много е хубав. 
+На 20 метра от него има ключар и правим всичко наведнъж. 
+
+Здр. Пепе, неприятно. Единственото, за което се сещам е да се отиде на ключаря до нас ама 
+в работно време. Ако мога да помогне с нещо друго ми кажи.
+
+si_mirchev@abv.bg  aa11bb22
+
+
+Manage certificates  Signature
+ Settings ->  Privacy and Security ->  Security 
+-> Under ‘Advanced’ -> Manage certificates.
+
+
+test API via windows bat file on Sandbox 
+
+
+Здравейте,
+
+Направих API ключ за тестови цели на "КОСИ 61" ЕООД Бургас.
+Булстат 102804684, на което аз съм собственик.
+Бихте ли ми пратили линк и/или инструкции как да свържа софтуера си със системата на НАП чрез API ключ. Езика на инструкциите е без значение български и/или английски. И втората ми молба е ако възможен пример /example/ без значение на какъв програмен език е написан примера.
+
+Поздрав.
+
+Стефан Мирчев 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ииии много красива и много талантлива, както се казва камерата я обича! Който си има Холивуд си има. Бъдеща актриса нея няма да я мислим.  
+
+5,357.84 / 10,424.91    99.95 / 5,167.02
+
+9,989.78 / 23,619.62   99.95 / 3,729.79
+
+24,647.90 / 25,668.37   99.95 / 1,120.42
+
+
+vek0=str(val(vek0)+1,4)
+https://replit.com/@StefanMirchev/CoordinatedCanineConnections
+
+ДОО    BG97BNBG96618000112001 
+ДЗПО   BG65BNBG96618000111801 
+ЗОВ    BG16BNBG96618000112101
+ДОД    BG88BNBG96618000195001 
+#2E3436
+
+printf %b '\e]11;#000000\a' ; curl wttr.in/Burgas ; printf %b '\e]11;#2E3436\a'
+
+    c    Weather condition,
+    C    Weather condition textual name,
+    x    Weather condition, plain-text symbol,
+    h    Humidity,
+    t    Temperature (Actual),
+    f    Temperature (Feels Like),
+    w    Wind,
+    l    Location,
+    m    Moon phase 🌑🌒🌓🌔🌕🌖🌗🌘,
+    M    Moon day,
+    p    Precipitation (mm/3 hours),
+    P    Pressure (hPa),
+    u    UV index (1-12),
+
+    D    Dawn*,
+    S    Sunrise*,
+    z    Zenith*,
+    s    Sunset*,
+    d    Dusk*,
+    T    Current time*,
+    Z    Local timezone.
+
+(*times are shown in the local timezone)
+
+curl wttr.in/London?format=3
+
+curl wttr.in/London?format="%l:+%c+%t\n"
+-----------------------------------------------------------------------
+
+Skip to main content
+PIA Support Portal
+PIA Support Portal
+How can we help you today?
+PIA Support Portal
+Help Center
+Knowledgebase
+Technical
+Troubleshooting
+OpenVPN
+Linux - Setting up manual OpenVPN connection through the Terminal
+Linux - Setting up manual OpenVPN connection through the Terminal - Knowledgebase / Technical / Troubleshooting / OpenVPN - PIA Support Portal
+Linux - Setting up manual OpenVPN connection through the Terminal
+Authors list
+Last updated: Dec 14, 2022 by Edwin C
+In this tutorial, you will learn how to set up an OpenVPN connection on your Linux device. This is an alternative way of connecting to PIA VPN servers that will come in handy if the PIA VPN app can not be installed on your device or it does not perform as expected.
+
+Don't have a subscription yet? Get PIA VPN here!
+
+Get your credentials
+Install the OpenVPN package
+Download configuration files
+Connect to the VPN
+ This tutorial uses Ubuntu distribution. Please note that some configurations may vary depending on the Linux distribution you are using.
+
+ 
+
+Get your credentials
+ You will need PIA VPN service credentials to connect to the VPN using a manual OpenVPN connection.  This was sent to the same email you used when you purchased and registered for the PIA VPN subscription. You may look for an email with the subject "Private Internet Access Account Activated" From "Private Internet Access - Support Dept ''. 
+
+ 
+
+Install the OpenVPN package
+ Step 1:  Open the terminal:
+
+• You can do that by pressing Ctrl+Alt+T keys or navigating to it in your apps menu.
+
+Step 2:  Install Openvpn: 
+
+• Enter the following command to install all the necessary packages:
+
+sudo apt-get install openvpn unzip
+
+NOTE: You may need to enter your computer password to confirm this process. In such a case, enter the password and press Enter.
+
+
+Download configuration files
+Step 3:  Change Directory:
+
+• Navigate to the OpenVPN directory. You can do that by entering this command:
+
+cd /etc/openvpn
+
+Step 4:  Download the zip file:
+
+• Download the PIA OpenVPN configuration by entering the following command:
+
+sudo wget https://www.privateinternetaccess.com/openvpn/openvpn.zip
+
+Step 5:  Unzip the file:
+
+• Extract the openvpn.zip by entering this command:
+
+sudo unzip openvpn.zip
+
+
+
+Connect to the VPN
+Step 6:  Connect:
+
+Choose one server from the list that you want to connect to and copy the hostname (URL) representing this server's hostname.
+Enter the following command to see the list of all the available servers:
+ls
+
+Connect to your chosen server by entering this command:
+sudo openvpn paste the server name here
+
+For example, if you'd like to connect to the us-california server, this would be the command:
+sudo openvpn us_california.ovpn
+
+Congratulations - you have successfully configured OpenVPN manual connection! As long as you’re connected, your location is private, and your sensitive data is secure.
+
+ Some networks are configured to be more restrictive than others, which can sometimes interfere with VPN connections. In the event the default files do not work, please try redoing the config file portion of the OpenVPN install and replace the https://www.privateinternetaccess.com/openvpn/openvpn.zip file with one of the URLs listed below; please try each set until one of them works:
+
+OPENVPN CONFIGURATION FILES (DEFAULT)
+
+OpenVPN Configuration Files (Recommended Default windows only plus block-outside-dns)
+
+OPENVPN CONFIGURATION FILES (IP)
+
+OPENVPN CONFIGURATION FILES (STRONG)
+
+OPENVPN CONFIGURATION FILES (TCP)
+
+OPENVPN CONFIGURATION FILES (STRONG-TCP)
+
+
+If you have any further questions, our customer success team is here to help you 24/7 over live chat or email.
+
+ 
+
+Subscribe
+Author
+Edwin C
+Date Created
+Dec 8, 2022
+Why
+
+Hide My IP
+Browse Anonymously
+Public Wifi Security
+Identity Protection
+Internet Security
+Internet of Things Security
+Prevent Data Theft
+Hide My Location
+FaceNiff and Firesheep
+Tor vs VPN vs Proxy
+Free vs. Paid VPN
+UN Recommends Encryption
+Snooper's Charter
+WiFi KRACK
+Privacy from your ISP
+Service
+
+How It Works
+Buy VPN
+VPN Encryption
+Downloads
+Network
+Android VPN App
+iOS VPN App
+Company
+
+About Us
+PIA Team
+Jobs
+Press Area
+PIA In The Media
+PIA On The Web
+VPN Reviews
+Companies We Support
+Resources
+
+Contact Us
+Support Portal
+Tutorials
+Blog
+Whitehat Program
+Affiliates
+PIA Site Map
+Tools
+
+DNS Leak Test
+IPv6 Leak Test
+Email Leak Test
+What's my IP?
+About
+
+Private Internet Access is the leading VPN Service provider specializing in secure, encrypted VPN tunnels which create several layers of privacy and security providing you safety on the internet. Our service is backed by multiple gateways worldwide with access in 30+ countries, 50+ regions.
+
+Payment Methods
+
+         
+Copyright © Private Internet Access, Inc All Rights Reserved.
+Terms Of ServicePrivacy PolicyCookies PolicyDMCA PolicyExport Control Policy
+Powered by
+Deskpro
+
+
+
+
+
+-------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+curl wttr.in ; wget -qO- wttr.in/Burgas
+
+inxi -w ; inxi -wxxx
+
+обър филм:
+
+curl -s -L "https://nominatim.openstreetmap.org/search.php?q=$(curl -s -L ipinfo.io | jq -r '"\(.city),\(.region)"')&polygon_geojson=1&format=jsonv2" | jq -r '"\(.[0].lat),\(.[0].lon)"')" | jq -r '.properties.forecastHourly')" | jq -r '.properties.periods[0].temperature'
+
+Миленче направих тази година малоко по-голяма печалбат за 2023 187.95
+Искам да вляза в банката за да изравня осиг. на фирмата с данъчните.
+обади ми се да се чуем.
+
+
+5,357.84 / 10,424.91    99.95 / 5,167.02
+
+9,989.78 / 23,619.62   99.95 / 3,729.79
+
+24,647.90 / 25,668.37   99.95 / 1,120.42
+
+
+
+
+smb://192.168.0.209/c/HO23
+
+
+Security Context unconfined
+
+Command Line /usr/1ib/virtualbox/VBoxXPCOMIPCD
+
+Waiting Channel do_poll.constprop.0
+
+Control Group //user.slice/user-1000.slice/session-c1.scope ()
+
+
+
+
+https://www.facebook.com/OBICHAM.STARITE.BG.FILMI/videos/%D0%BD%D0%B5%D0%B2%D0%B5%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0-%D1%87%D0%B5%D1%82%D0%B5-%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%B0%D1%82%D0%B0-%D1%81%D0%B8-%D0%BF%D0%BE%D0%B5%D0%B7%D0%B8%D1%8F%D0%B7%D0%B0%D0%BA%D0%BB%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5%D0%BD%D0%B5-%D0%BE%D1%82%D0%BC%D0%B8%D0%BD%D0%B0%D0%B2%D0%B0%D0%B9-%D0%BD%D0%B8%D0%BA%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B8%D1%87%D0%B0%D0%BC-%D1%82%D0%B5%D0%BF%D1%80%D0%BE/10154643737324150/
+
+https://www.facebook.com/OBICHAM.STARITE.BG.FILMI/videos/%D0%BD%D0%B5%D0%B2%D0%B5%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0-%D1%87%D0%B5%D1%82%D0%B5-%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%B0%D1%82%D0%B0-%D1%81%D0%B8-%D0%BF%D0%BE%D0%B5%D0%B7%D0%B8%D1%8F%D0%B7%D0%B0%D0%BA%D0%BB%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5%D0%BD%D0%B5-%D0%BE%D1%82%D0%BC%D0%B8%D0%BD%D0%B0%D0%B2%D0%B0%D0%B9-%D0%BD%D0%B8%D0%BA%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B8%D1%87%D0%B0%D0%BC-%D1%82%D0%B5%D0%BF%D1%80%D0%BE/10154643737324150/
+
+
+https://www.youtube.com/watch?v=hF1fC6Ewl-U
+
+sudo apt-get install openconnect network-manager-openconnect network-manager-openconnect-gnome
+
+aaaaaaaaaaaaaaaaaa
+https://www.youtube.com/watch?v=tPtXw0f2d-M
+sudo apt-get install network-manager-vpnc
+
+https://www.linuxbabe.com/ubuntu/openconnect-vpn-server-ocserv-ubuntu-20-04-lets-encrypt
+
+
+sudo apt install wget curl nano software-properties-common dirmngr apt-transport-https gnupg2 ca-certificates lsb-release ubuntu-keyring unzip -y
+
+
+https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzA5ODk3NzExLCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D
+
+https://icedrive.net/s/SkV4R27iX95PT7vVkw66yVzxNB6R
+
+https://icedrive.net/s/jG8W5yvBQ8QaNutPSaTVAuVQtVbP
+
+
+MILENA21
+
+
+От писмото на НАП  се разбира, че са платени ДОД ДОО ДЗПО но не НЗКО - здравните, ще вляза в банкта за да маправя справка ако си прочела това напиши само едно ок 
+
+firefox
+
+Chromium
+
+Google
+
+Chrome
+
+--new-window
+
+->
+divalza0
+           
+1. Generate new controller ⮕ rails g controller posts
+Result:
+      create  app/controllers/posts_controller.rb
+      invoke  erb
+      create  app/views/posts
+      invoke  test_unit
+      create  test/controllers/posts_controller_test.rb
+      invoke  helper
+      create  app/helpers/posts_helper.rb
+      invoke  test_unit
+2. In file  ⮕ app/controllers/posts_controller.rb include new
+        def index
+        def
+3. Create app/views/posts/index.html.erb ✚ include new " & ;;
+
+
+
+   '0. Exit     ' $fo0 'sans 11' \
+                '1. Menual   ' $fo0 'sans 11' \
+                '2. Command  ' $fo0 'sans 11' \
+                '3. Examples ' 'black' '#FFDB00' 'sans 11'
+
+
+
+       # 3) sleep 0.3 ; choice1=$(yad --list --title="SubMenu" --column="" --undecorated --no-headers \
+        #         --gtkrc=/home/$USER/work/library/themes/red.css --borders=3 --timeout=7 \
+        #         --no-buttons  --separator="" --geometry=126x132+177+900 \
+        #         --window-icon=/home/$USER/work/library/image/icon/menu1.ico --search-column=1  \
+        #         --text="<span font='11' background='#FFDB00' foreground='black'>  Sub Men1  </span>"\
+        #         --column=@fore@ --column=@back@ --column=@font@ \
+        #            '0. Exit'      $fo0 'sans 11' \
+        #            '1. Menual   ' 'black' '#FFDB00' 'sans 11' \
+        #            '2. Command  ' 'black' '#FFDB00' 'sans 11' \
+        #            '3. Examples ' 'black' '#FFDB00' 'sans 11' 
+        #                )
+
+si.mirchev01@gmail.com  StefanMirchev divalza0*^
+
+
+
+
+Добре след час заповядай, Въх ти да не си в Бургас брех, че не помислих, ти пък от майтап не разбираш ли?
+
+Пепе дай го по-весело,че е празник. Аз отивам да готвя мусака, че каймата ми от три деня дреми в хладилника, не във фризера. чи пак ши фтаса
+
+
+Много благодаря Пепе за клипчето .... Баш тъй си е ".......Като пенсионерите няма да мерите....Подаряват свещници на пенсионерите....Вместо подаръци правят намеци " 
+
+емотико
+
+Между другото имам всички бг комедии на dvd. Само англичаните и американците могат да ни съперничат на хумора.
+
+Ето още от моята аудиотека, тя е много богата на те тейзи простотии. 
+
+
+https://www.4sync.com/video/AF21wj4x/02Kaloyanchev_-_Urok_po_geogra.html
+
+https://chefoyandex-drive.mycozy.cloud/public?sharecode=RGz15HhUZ8Wf
+
+
+
+
+
+
+
+
+
+
+61800011200
+
+Благодаря Милке, честита и на тебе ей че ми е е домъчняло за вас!
+
+11  554.00 
+30  187.00
+50  300.00
+
+https://ebb.ubb.bg/Q.aspx
+
+Шаблони и Доверени бенефициенти
+
+
+5573865118
+
+
+01/2024-04/2024
+
+6102260547
+
+
+СТЕФАН ИВАНОВ МИРЧЕВ
+
+
+sudo dpkg --add-architecture i386
+sudo apt-get update
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 libcupsimage2:i386
+
+# Download the [.DEB driver](https://www.support.xerox.com/support/phaser-6010/downloads/enus.html?operatingSystem=linux&fileLanguage=en) that Xerox supplies.
+
+si.  abv aa11bb22
+https://drive.internxt.com/
+
+https://portal.mimedia.com/#/
+
+https://drive.internxt.com/folder/b4f6e076-125c-408d-9567-5970a3943f35
+sudo dpkg -i /home/kosy/IDISK/LINUX/32-64/64/xerox-phaser-6000-6010_1.0-1_i386.deb
+sudo apt-get -f install
+sudo apt-get install libcupsimage2:i386
+
+# Test and verify no errors appear in
+tail -f /var/log/cups/error_log | grep -i error
+```
+
+Льонка аз гледам по нашите тв новините, и комедиите. Реалити съм правил съм опити да гледам, но не ми се получава повече от минута.    
+National Geographic, ID Extra и канали за животни и то само на запис. Дори няма да прочета, каквото и да пратиш за това, което дават по т.н. телевизии. От 2010 година мисля те престанаха да са телевизия и се превърнах в излъчватели на реклами ако зависи от мене ще ги забраня.
+Те са изключително опасни и то за млади ако си убиват времето с това което върви по тях. 
+
+canimage -L
+sudo simple-scan -d
+Acer FlatbetScanner 42
+
+
+
+
+sudo apt-get -y install xsane
+
+gscan2pdf
+
+"E-mail address Serial number Customer number for vuex64-9.8.27.den"
+
+
+Извинявай Льонка малко ме нямаше през празничните дни и сега ти пиша. Много много благодаря Льонка! Аз искрено съм благодарен за поздрава ти. И разбира се, че няма никакви значение дата, защото 
+жеста, че се сещаш е най-важното. Аз хич не се сещам за такива работи. Още веднъж благодаря!
+
+Оффф Пепе философските ти съжденя са видимо тъй лесно занимание за табе, а за мене 
+Отивам да празнувам бееее! Момент едно музикално поздравче
+
+
+Много, много благодаря Минка за поздравлението. Истински съм впечатлен, намирам го за много мило, че моят рожден ден е дата, която помниш. Моето пожелание за хубав и много весел ден ти 
+пожелавам с подбор от моята аудио колекция. Това са записи, с които като ученик с моята компания много сме се забавлявали, надявам се да ти харесат. 
+
+
+Живо здраво Батка. Надявам се при теб всичко да е наред. Моето пожелание за хубав и много весел ден ти пожелавам с подбор от моята аудио колекция. Това са записи, с които като ученик с моята компания много сме се забавлявали, надявам се да ти харесат.
+
+https://transfer.sh/WrU033lIdK/Shistidisyat_chovek_ni_sa_vika_star.avi
+
+https://transfer.sh/SKUcHnDQQx/04.Tapanchev_na_uchilishte.mp4  
+
+https://transfer.sh/mMb9DC2qbi/06.Veso_Parcala_AntiViagra.mp4      
+
+https://transfer.sh/8yCRXmd0zC/08.Veso_Parcala_Brakorazwodno_delo.mp4
+
+
+
+Ммммм дааа впечатляващо, благодаря Льонка! Tom Jones - Sex Bomb! Аз си помня много добре първата 
+му песен Delilah, ама пък Green Green Grass Of Home, боже че е хубава! Не мога да забравя как, а това беше 60-ти всички само това танцуваха. Evergreen мноооого мяза на неговата музика!
+
+Ммммм дааа впечатляващо, благодаря Льонка!
+Много, много благодаря Марго за поздравленията. Истински съм впечатлен, намирам го за много мило, че моят рожден ден е дата, която помниш. Моето пожелание за хубав и много весел ден ти 
+пожелавам с подбор от моята аудио колекция. Това са записи, с които като ученик с моята компания много сме се забавлявали, надявам се да ти харесат. 
+
+
+
+
+
+Много, много благодаря Слънчице още веднъж за поздравленията. Истински съм впечатлен, намирам го за много мило, че моят рожден ден е дата, която помниш. Моето пожелание за хубав и много весел ден ти 
+пожелавам с подбор от моята аудио колекция. Това са записи, с които като ученици много се забавлявахме. 
+
+
+
+https://www.4sync.com/video/fHVbNhl8/%D0%A8%D0%B8%D1%81%D1%82%D0%B8%D0%B4%D0%B8%D1%81%D1%8F%D1%82_%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD_%D1%87%D0%B8%D0%BB%D1%8F%D0%BA_%D0%BD%D0%B8_%D1%81%D1%8A.html
+
+https://www.4sync.com/video/gPspzGUi/04Tapanchev_na_uchilishte.html
+
+https://www.4sync.com/video/eY9Cl7b1/08Veso_Parcala_Brakorazwodno_d.html
+
+https://www.4sync.com/video/LyhgLnSB/06Veso_Parcala_AntiViagra.html
+
+
+
+Шистидисят годишен чиляк, ни съ дума стар.avi
+https://www.4sync.com/video/fHVbNhl8/%D0%A8%D0%B8%D1%81%D1%82%D0%B8%D0%B4%D0%B8%D1%81%D1%8F%D1%82_%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD_%D1%87%D0%B8%D0%BB%D1%8F%D0%BA_%D0%BD%D0%B8_%D1%81%D1%8A.html
+
+
+Na uchil
+
+https://www.4sync.com/video/gPspzGUi/04Tapanchev_na_uchilishte.html
+
+
+
+08.Veso_Parcala_Brakorazwodno_delo.mp4
+https://www.4sync.com/video/eY9Cl7b1/08Veso_Parcala_Brakorazwodno_d.html
+
+
+
+06.Veso_Parcala_AntiViagra.mp4
+https://www.4sync.com/video/LyhgLnSB/06Veso_Parcala_AntiViagra.html
+
+
+<div id="modal" doskip="1" prclck="1"> <div
+
+sha256sum /home/kosy/work/VirtualBoox.zip
+md5sum /home/kosy/work/VirtualBoox.zip
+
+
+
+<div id="modal" doskip="1" prclck="1">
+
+
+https://www.virustotal.com/gui/home/upload
+
+HKEY_CLASSES_ROOT\batfile\shell\edit\command
+
+
+Съседке Караджова, благодаря за съобщението, ми ние отдавн си имам сайт за съобщения на входа виж този линк
+
+https://drive.google.com/drive/folders/1GEAmET5clPIGVDjPxefLSM3nv63ZWYj0?usp=sharing
+
+Дори си имаме и поща, в която всеки собственик може да влезе, ако искаш пробвай да влезеш oborishte953@gmail.com с парола aa11bb22. Ако имаш някакъв проблем пиши ми ще ти помогна. Само имам една молба не казвай тези неща на "г-жа НЯМА НЕ ИСКАМ НЯМА НЕДЕЙ ЩЕ ПЛАЩАТ" - НЯМАМ Й НИКАКВО ДОВЕРИ. За сега от мен лека вечер!
+
+
+
+Тянка не ми е удобно пак да ти звъня. Би ли ми написал за четвъртък точния час помня само
+11.??? 
+
+Пепе ако някога съм си изградил представа за фина и красива французойка - това са снимките които си ми пратила, истински се радвам за тебе, че така изглеждаш! 
+
+
+Дата на сключване на допълнителното споразумение – година
+
+
+Паричните мераци на един алчен човек не е документ 
+
+ктуализации във версия на ПП „Трудови договори”
+Версия 2.20 на ПП Трудови договори
+31. Актуализирана е номенклатурата НКПД (в сила от 01.01.2024)– добавени кодове на професии.
+
+НАГЛАТА ИСКА, НО НЕ МОЖИ ДА ЧЕРПИ ПРАВОТО ДА ВИ ИЗВИВА РЪЦЕТЕ КАТО ВИ СЛАГА ТАКСИ КАКВИТО БОЛНИЯ Й МОЗЪК СИ ИЗМИСЛЯ, ОТ ФАКТА, ЧЕ ВЕЧЕ ВЕДНЪЖ ВИ Е ИЗЛЪГАЛ КАТО СТЕ СЕ ПОДПИСАЛИ  
+НА ПРАЗЕН ЛИСТ И С НЕГО СЕ Е РЕГИСТРИРАЛА КАТО ДОМОУПРАВИТЕЛ, И АЗ ВИ КЗВАМ ВИЕ ПЛАЩАТЕ - НЯМА ТАКЪВ ФИЛМ В ЗАКОНА. НАЛИ ВСЕКИ ЕДИН ОТ ВАС.
+ОПТВАМ СЕ ДА КАЖ
+ИМА САМО ЕДИН ЕДИНСТВЕН НАЧИН ДА ПЛАЩАТАЕ И ТОЙ Е КОЙТО
+СОБСТВЕНИЦИТЕ ИЗБЕРАТ ПО ЧЛЕН 
+
+НАГЛЕЦА НЕ ПРАВИ ДОКУМЕНТИ ПО РЕДА НА ЗУЕС, ЗАЩОТО АКО НАПРАВИ ЩЕ Я РАЗЧЕКНИРЕ ОТ ВЪПРОСИ.
+
+Паричните мераци на един алчен човек не е документ 
+
+
+
+
+
+
+Ако съм на Вше място г-жо Иванова, ако г-н Мирчев пиши неверни неща за Вас мисля, че няма нищо по-лесно не да чакате той да се включи във Вашата вайбър група /защото това не е негово задължение, а е само въпрос на негова воля и желание/, да напишете Ваша истината на собствениците във входа, те са със собствени глави и ще Ви разберат. 
+
+89.38   1.44 =   90.82
+89.50   1.39 =   90.69
+
+
+Това е лесно досежно г-н/жо ?????????????? , но не това беше 
+въпросът. Въпросът беше: ПО ПРАВИЛАТА НА ePIN има ли срок на валидност
+и ако е да да ми го посочите моля.
+
+
+Вашето запитване беше изпратено успешно. Ще ви отговорим при първа възможност.
+
+Благодарим ви за интереса към продуктите на ОББ.
+
+Отговорът няма нищо общо с въпроса ясно е че разговора по имейл нямам никакъв смисъл.
+
+Питай я от кога нейния вайбър група е станало лице и чие лице е?
+
+
+Здравейте,
+
+Години го правя по един и същ начин с Еpin на страницата 
+на А1 и нямам абсолютно никакъв. От три дена се опитвам да си платя сметката по този начин, но получавам sms pict01.png въвеждам passuord в секция "Enter verification code fro the sms", в секция Ентер your ePIN (6 digts) въвеждам  6 цифровия си еPIN, който е един и същ през всичките години на плащане. И получава само отказ ограден с червено на pict02.png. 
+
+
+Моля за спешно съдействие за да си направя превода, срокът за плащане ми изтича на 22.01.2024 год..
+
+Поздрав 
+Стефан Мирчев
+
+
+Здравейте,
+
+Като клиент на KBC имам от години ePIN с който си плащам 
+сметките, конкретно на А1. Нямал съм никакъв проблем до сега. Опитите да си платя сметката от тази година на А1
+ми връща съобщение, че еPIN има вероятност да е невалиден.
+
+
+Въпросът ми е - СЛЕДВА ЛИ ОТ НАЧАЛОТО НА 2024 ДА ПРОМЕНЯ МОЯ
+ePIN? 
+
+
+Моля за спешно съдействие за да си направя превода към А1 тъй като срокът за плащане ми изтича на 22.01.2024 год..
+
+Поздрав 
+Стефан Мирчев
+
+
+
+
+
+Плащане на Faktura през страница на А1 с карта.
+
+Здр. Пепе народа го е казал Докато умните се наумуват, лудите се налудуват. Приказката за лудия и зелника. На таблото няма нищо. Не знам заради вас ли ги върти в нета за да и плащате. Довечера ще напиша пак едно писмо до всички собственици. Ти разбра ли къде живее и месторабота й? 
+Колко члена има във вайдър групата?
+
+Уважаеми г-Андонов,в неделя ми беше дошло в повече писането и не ти отговорих. Благодаря за поканата за включване в вайбър групата. Приветства усилието ти за подобряване 
+на съседската ни свързаност. Сега, присъединяването във вайбър група не става с вербално съобщение до участник извън групата. Инициативата за включване на нов участник трябва да дойде от тебе, защото ти имаш административните права на групата. Включването на нов участник става по два начина:
+Add a new participant
+Select the person you want to add to the group
+or
+Anyone can join your group using your group link.
+Много подробно е описано на страницата на Вайбър
+https://www.viber.com/en/?utm_source=Partner&utm_medium=Sharebutton&utm_campaign=Default
+Още веднъж благодаря за поканата, очаквам връзка. Лек ден!
+
+
+
+
+
+Деспотизма, който  
+И с визия и с говор, и с миъл и с манталитета който излъчва
+на партиен активис отпреди повече от 34 години.
+
+първи секретар на Окръжния комитет на БКП – Бургас 
+Превръща човека в нищожество - той само слуша, мълчи изпълнява и така беше до 10.11.1989г. - да ти е познато?
+
+За тези които бяха с главите си разбираха, че истинския комунисти бяха синоним на амалгама от интерсчия и прдател, 
+които не се спираха пред нищо гнусно за да осребрят партийното си членство, до консумират с пълни шепи килипира
+от хвалбата на партията. Кои са не истинските ли такива 
+като татко, които бяха повярви ли, че неговите другари,  
+съмишленици са носители на правята вяра, че партийните величия се бъхтят за ползу роду. Е сега всички го знаем,
+че е било пълна лъжа  
+
+Уважаеми собственици пиша ви тази неделя не, че аз съм изненадан, но всичко минава всякакви граници на приличието, на почтеността, и на разума. Вижте го как лъже не мога да я нарека по друг начин това, човекоподобие обезумяло от алчност, какви лъжи „На ползу роду” върти на собственици, които не са в Бургас. 
+Получих от хора не живеещи в Бургас, два файла, които самоназначилия, самозабравил се домоуправител /ССД/ им е пратил. Хората ме питат защо ми пращат "преразказ по картинки", в Бургас скенери нямали, телефони нямате ли бе хора?
+
+
+, които  им е пращала вижте сами.
+                              
+Просто пиши ви един нещастен човек обезумял от алчност.
+
+
+
+Това прекрасно име Пламена, това човекоподобие го напрваи нарицателно на лъжа, наглост и нравствена мръсотия.
+Професионален патологичен лъжец. Толкова гнусно създание.
+
+Вашето безропотно мълчание е напълно достатъчно да ни изхарчи спестяванията.
+Нали сами виждате не базари нищо, харчи спестяванията за какви ли не глупости при това нямаме още ремонтиран асансьор, а той колко ще струва никой не знае. Тя така или иначе ще харчи до всичко което докопа.  Огромната ми човешка молба е поне да не й подписвате нищо за да имаме шанс да се отървем, когато когато се осъзнаем.
+
+
+
+
+Имам и още една молба 
+ПЛАМЕНА ЛЪЖЕЦ 1

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCColors Version="1" MinVersion="1">
+	<TDirColors>
+		<BGColor Value="$FF000005"/>
+		<ConflictBGColor Value="-"/>
+		<DiffFGColor Value="$FF00FF"/>
+		<FolderInfoFGColor Value="$C0C0C0"/>
+		<FontStr Value="Sans Serif;14"/>
+		<LeftBGColor Value="-"/>
+		<LeftFGColor Value="$0000FF"/>
+		<LogColor Value="$D3E7DE"/>
+		<MergeableBGColor Value="-"/>
+		<MergeableFGColor Value="$007FFF"/>
+		<NewerFGColor Value="$0066FF"/>
+		<OrphanFGColor Value="$0000FF"/>
+		<RightBGColor Value="-"/>
+		<RightFGColor Value="$663300"/>
+		<SameFGColor Value="$000000"/>
+		<SelFocusedBGColor Value="$CCFFCC"/>
+		<UnknownFGColor Value="$C0C0C0"/>
+	</TDirColors>
+</BCColors>

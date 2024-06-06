@@ -1,0 +1,3 @@
+ 1. Upload to Google drive file 
+ 2. Right booton mouse over file 
+ 3. Open with > 

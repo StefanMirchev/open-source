@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCSessions Version="1" MinVersion="1">
+	<TDirCompareSession Value="ACCO_HLP">
+		<LastModified Value="2021-06-26 12:57:58"/>
+		<Specs>
+			<Left Value="/media/kosy/725D0D7922516FDF/WIN_10/HLP"/>
+			<Right Value="smb://192.168.0.209/c/hlp"/>
+		</Specs>
+		<State>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="INTER_WORK">
+		<LastModified Value="2023-09-10 18:54:12"/>
+		<Specs>
+			<Left Value="$HOME/work"/>
+			<Right Value="smb://192.168.0.207/inter-c/work"/>
+		</Specs>
+		<State>
+			<DirHandling Value="dirShowAll"/>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="МЕ301Т">
+		<LastModified Value="2022-09-13 10:34:25"/>
+		<Specs>
+			<Left Value="/home/kosy/work"/>
+			<Right Value="ftp://android@192.168.0.205:2221//work"/>
+		</Specs>
+		<State>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TDirCompareSession Value="LENOVO">
+		<LastModified Value="2022-09-13 10:34:25"/>
+		<Specs>
+			<Left Value="/home/kosy/work"/>
+			<Right Value="ftp://android@192.168.0.204:2221//work"/>
+		</Specs>
+		<State>
+			<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+			<InsigIgnored Value="True"/>
+		</State>
+	</TDirCompareSession>
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+				</Items>
+			</TSessionFolder>
+			<TDirCompareSession>
+				<State>
+					<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+				</State>
+			</TDirCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Brave
+Exec=/opt/brave/brave-browser --disable-features=OutdatedBuildDetecto
+Comment=
+Terminal=false
+Icon=/opt/brave/product_logo_64.png
+Type=Application
+Name[en_US]=Brave

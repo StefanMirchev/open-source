@@ -1,0 +1,42 @@
+
+/* 1 nemo right site */
+.nemo-window .view, .nemo-window iconview {
+     background-color: #F2F5F6; 
+  /* background-color: #E4FFC9; */
+    
+}
+
+.nemo-window .nemo-inactive-pane .view, .nemo-window .nemo-inactive-pane iconview {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+/* 3  nemo left site */
+.nemo-window .sidebar .view {
+  background-color: #D4EDFA; 
+  color: #665B2D; 
+/*  color: #995919;  */
+}
+
+.nemo-window .view:hover {
+  background-color: #c0a0f8;
+  color: #000000;
+}
+
+.nemo-window .view:selected {
+  background-color: #cccccc;
+   color: #000000;
+}
+
+button:focus {
+   outline: 3px solid #1F9EDE;
+ /* outline-width: 3px;
+  outline-style: solid;
+  outline-color: #f99090;   outline-color: #f99090     gray; */
+}
+
+
+.titlebar {
+    background: #D9D9D9;
+    color:black; 
+}
+

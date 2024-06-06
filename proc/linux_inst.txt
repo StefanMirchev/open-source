@@ -1,0 +1,1865 @@
+✅ ☑️
+
+esudo: /usr/bin/sudo must be owned by uid 0 and have the setuid bit set
+
+https://www.itlnet.net/programming/program/Reference/c53g01c/menu.html
+
+
+KOMOPRESOR - IN YOUTUBE -> How to connect a compressor from a refrigerator to 220 V.
+https://www.youtube.com/watch?v=e1PhE8nlGso&ab_channel=%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B8%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81
+
+
+
+
+❗❗❗ NIKOGA NNIKOGA NIKOGA -> sudo apt-get dselect-upgrade  NIKOGA NIKOGA❗❗❗
+❗❗❗ONLY FIRST COLUMN $1 SECOND COLUMN $2
+      echo 3 | smbclient -L //192.168.0.207 | awk '{print $1}' ❗❗❗ 
+❗❗❗ONLY FIRST COLUMN $1 SECOND COLUMN $2 SECOND ROW
+     var=$(echo -e "$(arp | awk '{print $1}')" | awk 'NR==3')  ❗❗❗ 
+❗❗❗ ONLY ONE WORD 
+var0=$(echo 3 | smbclient -L //192.168.0.207 | awk '{print $1}' | grep 'A_INTER_C') ❗❗❗
+
+• ● ✅ ☑️ 😃 ❌ 🍄 🦋 🌸 🌹 💥 ❓ ⚠️ ❤️ ⁉️ ❗ ✔️  🎤 ⏩  🏁 💎 🍓 🍷
+🧡 💙 💚 🍀 💧 😰 🛠️ 🔆 ⬜ ❎ ⬇️ ⬆️ ➡️ ⬅️  🆗 ⚙️ 1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
+⮕ 📎 👉  ⚓ 🛟 comma ‚ dot ﹒ quotation mark ＂ ' ⋮☰ ⦙  ⋯ ☑  ☐ ☒    Plain Text   Calibri
+   🅐 🅑 🅒 🅓 🅔 🅕 🅖 🅗 🅘 🅙 🅚 🅛 🅜 🅝 🅞 🅟 🅠 🅡 🅢 🅣 🅤 🅥 🅦 🅧 🅨 🅩
+
+
+
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+sudo apt install gnome-characters
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+          https://www.piliapp.com/symbol/
+          https://emojiguide.org/emoji-13-0
+          https://emojigraph.org/four-leaf-clover/
+          https://emojicombos.com/
+          https://emojidb.org/copy-file-emojis?utm_source=user_search_ec
+  
+Quotation Mark
+echo '+ , - . 0 ` a f g h i j k l m n o p q r s t u v w y x z { | } ~'
+echo '+ , - . 0 ♦ # ° ± n ↓ ┘ ┐ ┌ └ ┼ ⎺ ⎻ ─ ⎼ ⎽ ├ ┤ ┴ ┬ ≤ │ ≥ # ≠ £ ·'
+┌─┐
+│ │
+└─┘
+
+   @ CLS
+    mode con cols=100 lines=25
+    @ ECHO                    AnyDesk       TeamViewer        AA_3         Supremo
+    @ ECHO                    aa11bb22       si.mirchev@abv.bg di0                
+    @ ECHO                                                                        
+    @ ECHO  BQL              305 608 515  1 272 693 313   46 438 544              
+    @ ECHO  MILENA           763 188 724                  88 271 894              
+    @ ECHO  ALEN             873 255 914                  88 342 491              
+    @ ECHO  CHEF             520 364 867                                          
+    @ ECHO  KOSI             729 589 425                                          
+    @ ECHO  KORAL            700 254 249  1 494 812 110   53 024 796              
+    @ ECHO  LINUX            803 814 799    293 092 894                           
+    @ ECHO  GINA                            251 012 878                           
+    @ ECHO  TECHA            925 708 237    110 806 533  84 159 868               
+    @ ECHO  ANADA            945 66 6637  1 167 151 682  52 099 076      902845224
+    @ ECHO  ME301T           651 392 608                                          
+    @ echo  GORE/STEFCHE     172 414 483                 85 660 939               
+    @ ECHO  KATE                                         85 568 168               
+    @ ECHO  BOBY             957 023 824                 85 546 477               
+    @ ECHO  INTER            918 924 911                                          
+    @ ECHO  PANASONIC TV     385 845 978      
+    @ ECHO  D-R DANKOVA      630 280 284                                      
+    @ ECHO  MATIO 64         997 112 441                                         
+    @ ECHO  MATIO 32         509 822 304                  30 520 24     509 822 304
+    @ ECHO  ????????????     485 887 082
+    AniDesk Panasonic TV
+     1. File transfer -> Error File not found -> Click OK -> copy/paste ->  /mnt/sdcard 
+
+   
+
+
+  !!!! PERMISHION  !!!!!!!   PERMISHION   !!!!!!! PERMISHION  !!!!!!!!!!
+
+ -------------------  WIFI begin --------------------------
+      !!!!!!!        OPEN TERMINAL 
+    I. wariant
+
+    cd  ~/rtl8821ce
+    sudo apt-get install rtl8821ce-dkms
+    chmod +x dkms-install.sh
+    chmod +x dkms-remove.sh
+    sudo ./dkms-install.sh
+    sudo modprobe 8821ce 
+    Reboot
+    Shift+Super+N -> A1_F277
+    485754433689E4A4
+------------------------------------
+sudo apt update 
+sudo apt upgrade 
+sudo apt-get dist-upgrade
+reboot
+sudo apt install bc
+sudo apt-get install build-essential 
+sudo apt-get install libelf—dev
+
+
+sudo apt-get install linux-headers-$(uname -r)
+
+sudo apt install bc
+sudo apt-get install build-essential
+sudo apt-get install libelf-dev
+sudo apt install dkms
+sudo rmmod r8188eu.ko
+
+git https://github.com/drygdryg/rtl8188eus 
+
+git clone https://github.com/aircrack—ng/rt18188eus
+
+
+cd rtl8188eus
+sudo -i
+echo 'blacklist r8188eu'|sudo tee -a '/etc/modprobe.d/realtek.conf'
+reboot
+
+cd rtl8188eus
+sudo make && make install
+reboot
+
+
+----------------------------------------
+
+sudo apt update
+sudo apt-get install -f
+sudo apt-get dist-upgrade
+sudo apt-get -y install dkms build-essential git
+
+# Go install the driver 
+mkdir ~/DriverBuild
+cd ~/DriverBuild
+git clone https://github.com/lwfinger/rtl8188eu.git
+sudo dkms add ./rtl8188eu
+sudo dkms build 8188eu/1.0
+sudo dkms install 8188eu/1.0
+reboot
+
+
+-----------------------------------------------------
+
+  
+    II. wariant
+      
+         cd  ~/rtl8821ce
+         sudo apt update
+         make clean
+         make
+         sudo make install
+         sudo modprobe 8821ce
+         VAVEDI 485754433689E4A4 I WSICHKO E NARED  
+
+
+   !!!!!!!!!!!   VKUCHI WIFI ->TP-LINK -> MOBILNATA ANTENA  !!!!!!!!!!!!!!!
+     III. variant 
+      sudo apt update
+      clear
+      sudo apt install -y dkms git
+      clear
+      git clone https://github.com/tomaspinho/rtl8821ce.git
+      cd  ~/rtl8821ce
+      sudo ./dkms-install.sh
+      sudo modprobe 8821ce  
+      iwconfig
+   !!!!!!!!!!!!!!!     IZK WI-FI ->TP-LINK -> MOBILNATA ANTENA  !!!!!!!!!!!!!!!!!!!
+   !!!!!!!!!!!!  VAVEDI abc 123456 na CHEFO I WSICHKO E NARED  !!!!!!!!!!!!!!!!!!!
+   ----------------------  WIFI end ----------------------------
+ 
+     ----------------------  USB EGIN----------------------------
+           
+    VI.   Oracle_VM_VirtualBox 
+         USB -> Enable USB Controller -> see -> https://superuser.com/questions/956622/no-usb-devices-available-in-virtualbox
+        !!!  SLED INSTALCIQ NA -> //home/$USER/IDISk/INSTALL/VirtualBooxvirtualbox-6.1_6.1.18-142142_Ubuntu_eoan_amd64.deb  !!!!
+        !!! NAPRAWI -> File Preferences-> Extensions-> Add-> Oracle_VM_VirtualBox_Extension_Pack-6.1.18.vbox-extpack !!! 
+         sled instalacicia na 
+        sudo apt-get update
+        sudo adduser $USER vboxusers 
+        sudo reboot
+    if doesn't work -> see -> https://superuser.com/questions/956622/
+    if [ ! -t 0 ]; then x-terminal-emulator -e "$0"; exit 0; fi  
+    no-usb-devices-available-in-virtualbox
+        sudo usermod -aG vboxusers $USER
+   ----------------------  USB END ---------------------------
+    
+  ----------------------  INSTAL EMACS--------------------------
+    V. MNOGO WAGNO ZA PRAWILNOTO INSTALIRANE NA EMACS !!!!
+   1. zsh shell -> improvements bash commands
+        sudo apt-get update   
+        sudo apt upgrade     NIKOGA  NIKOGA NIKOGA  NIKOGA  NIKOGA NIKOGA NIKOGA  NIKOGA NIKOGA  NIKOGA 
+        
+        sudo apt install zsh
+        sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+        copy /paste  /home/kosy/work/library/hlp/A_install_linux.txt
+        chsh -s $(which zsh)  -> rebbot linux !!!!!!!!!!!!!
+        colors ls bash komand -> nai dolu.zshrc
+        # for 64 bit laptop  
+        #  LS_COLORS="$LS_COLORS:ow=1;32:tw=1;34:"
+        # for 32 bit laptop 
+           LS_COLORS="$LS_COLORS:ow=0;32:tw=1;34:"
+        chsh -s *(which zsh) -> tova e izli[no]
+   2.  Emacs = nemo = vim -> sudo apt-get install emacs 
+       - pri problem -> sudo dpkg --configure -a
+       - cp ~/work/library/hlp/init.el ~/.emacs.d
+       - run -> /home/acco/work/library/emacs/emacs_set.sh
+   3. Prez terminal run samo -> emacs -> zapochvat da se dgurkat, pita natisni "a",
+       mnogo chakash!!!  
+       - wtroro startirane na emacs i trqbwa da nqma nikakyw problem
+
+  ----------------------  EMACS END ----------------------------
+
+  ⏩---------------------------INSTALL BEGIN ----------------------------
+          !!! PRI PROBLEM S USB NA VIRTUALBOX TRQBWA DA SEVIDI TOVA
+          SOFTUWRA SI TO`EN NE E PROBLEM AKO NE SE WIVDAT FLASHKTE 
+           SMENQJ FLASKIUTE DOKATO SE VIDYAT!!!!
+   host ->  right Ctrl supper -> win 
+                        right              bad
+                  2>&1 >/dev/null     > /dev/null 2>&1 
+    
+    A. 
+      1. include instal usb restart laptop press ESC
+      2. uefi SanDisk Cruzer - second position
+      3. Linux Mint 20.1 Cinnamon 64 bit - first position
+      4. Install Linux - third
+      5, English English
+      6. install multimedia codecs
+      7. Something else
+      8. New partition table
+      9. Free space 512110 
+     10. 150000 mountain point
+     11. + 3472 - use as swap area
+     12. +358638 -mountain point
+     13. nai-veroyatno nqma da se instalira  v tazi procedura
+     14. Erase linux mint 20.1 Ulyssa and reinstall  - First 
+     15. 358635 se namira - File system / media delete /kosy /lost+fou
+    B. 
+    1. - System->Font Selection->  Liberation Mono Regular     size 14     mono
+       - Terminal -> root  admin sudo -i   ->   sudo chown -R kosy:kosy /media
+       - IDISK/linux
+       - WIFI,  Libreoffice, Vibox
+       - copy / paste .zshrc  -> cp ~/work/library/hlp/.zshrc  ~/   
+       - display resolution: 1530 x 830 ~ 60Hz  
+       - kyr lat -> Swithing to anather lauyout
+   *2. clipboard Install     -> sudo apt install xclip
+          NOT SEARCH EXAMPLES IN .SH FILE DOWN ALL 
+       ● https://opensource.com/article/19/7/xclip
+       ● 1.  xclip 
+       ●  to file -> xclip -out > /home/inter/work/linux/trans1.txt
+       ●  to var -> var0=$(xclip -selection clipboard -o)
+       ●                    xclip -selection clipboard -t image/png -o 
+       ● clean clipboard  -> xclip -sel clip < /dev/null
+       ● 2. xsel 
+       ●  a) to var ->  
+       ●   varexp00=`xsel -ob` 
+       ●        bbb=`xclip -o -selection clipboard`  
+       ●      name0=$(echo "`xsel -ob`"
+       ●        ccc=`xsel -b`
+       ●        fold0=$(echo "`xsel -ob`")
+       ●   b) to clip board
+       ●      NO TRIM echo "$str0" | sed 's/^ //g' | xclip -sel clip 
+       ●      echo '111111111111111111' | xsel -ib
+       ●      echo 'https://parking.transportburgas.bg/lookup' | xsel -ib 
+       ●      echo 'A6957KC' | xsel -ib 
+       ●  c)  xsel --clipboard | tr "\n" " " | espeak -a 100 -p 60 -s 100 -k20 -v mb-us1 
+       ● clean clipboard  -> xsel -bc
+     4.  install gmome -> sudo apt-get install gnome 
+    *5  Many
+        ● Transparance show image file-> sudo apt-get install pqiv
+        ●  network share
+      sudo apt-get install smbclient
+      # List all shares:
+      smbclient -L //<HOST_IP_OR_NAME>/<folder_name> -U <user>
+      echo 3 | smbclient -L //192.168.0.207
+      echo 1 | smbclient -L //192.168.0.206
+      smbclient -L inter 
+      ls -l /var/lib/samba/usershares
+      unmont go to - /var/lib/samba/usershares 
+
+      smbclient //192.168.0.207/inter  ; smbclient -U john //192.168.0.207/int
+      
+      ------------------ NETWORK RESTART BEGIN ------------------- 
+            # sudo /etc/init.d/networking restart
+            or
+            # sudo /etc/init.d/networking stop
+            # sudo /etc/init.d/networking start
+            else
+            # sudo systemctl restart networking
+            check 
+            # sudo /etc/init.d/networking status
+            or
+            # sudo systemctl status networking
+
+
+nameserver 10.255.255.3
+nameserver 127.0.0.53
+# nameserver 8.8.8.8
+# nameserver 8.8.4.4
+
+sudo /opt/sublime_text/sublime_text /etc/resolv.conf 
+sudo service network-manager restart && sudo systemctl restart systemd-networkd
+
+      ------------------ NETWORK RESTART END ------------------- 
+      
+      # connect:
+      !!! CHECK IP SCANNER wifi -> MY IP ORIGINAL -> 176.12.41.1 
+     ● ifconfig -a   ;  ip address 
+      nmcli connection show --active
+     ●ip a
+     ●sudo ifconfig enp0s3 192.168.178.32/24 
+     ●sudo ifconfig enp0s3 192.168.178.32 netmask 255.255.255.0
+     ●hostname -I | awk '{print $1}' ; ifconfig | grep ether
+     ●hostname -I | awk '{print $1}' ->   IP
+     ●nmcli                     ->   The best   
+     ●ifconfig | grep ether          ->   MAC addres 
+     ●ip link show | grep ether      ->   MAC addres  
+     ● ip link | awk '/link/ { print $2 }' -> MAC addres 
+     ●  arp -> All MAC addres 
+     ❗❗❗     change MAC addres
+     echo "1" | sudo -S -k sudo ip link set eno1 down ; sleep 3
+     echo "1" | sudo -S -k sudo ip link set eno1 address D8:C0:A6:06:CF:B3
+     echo "1" | sudo -S -k sudo ip link set eno1 up ; sleep 3
+
+     ● nmcli -p device show  ->  Device details (enp0s3)
+     ● nmcli networking on  ;    nmcli networking off
+     ● create ftp● sudo apt-get install vsftpd
+     ME103T   ftp://android@192.168.0.205:2221/work
+     ● start ->  ftp 192.168.0.206  -> na pc to na koeto si 
+     ●  Name network SSID -> iwgetid -r -> chefo or A1_F277
+     ftp -u ftp://android:android@195.168.0.204/sdcard/AUDIO/SAYME.TXT /home/kosy/A_KOSY_C
+
+    Connecting to your Android device from your PC. via terminal NOT NOT NOT!!!!!!!
+
+     scp <username>@<ftp-server-ipaddress>:/path/ftp-server/dir <your file>
+     $ scp android@<ftp-server-192.168.0.204>:/path/ftp-server/sdcard/AUDIO/SAYME.txt
+    
+     ● curl ifconfig.me
+     ● curl ipinfo.io/ip
+     ● route -n
+     ●  dig +short myip.opendns.com @resolver1.opendns.com
+     ●  host myip.opendns.com resolver1.opendns.com
+        Name (192.168.0.206:inter): kosy 
+        149.57.28.69%  104.245.146.54%  104.254.92.78%  
+
+ ------------------WIFI WIRELESS NETWORK END ------------------------- 
+
+     ●   calendar -> sudo apt-get install  gcal.
+        ●  alias gcal0='gcal --starting-day=1'
+        ●  gcal0 -H '\e[42m:\e[0m:\e[32m:\e[0m' BG
+        ●  gcal0 -H '\e[31;42m:\e[0m:\e[33;45m:\e[0m'
+  
+     ●  shotut video editor -> sudo apt-get install shotcut
+        1. Mergin AUDIO -> https://audio-joiner.com/
+        2. Mergin VIDEO -> https://www.onlineconverter.com/merge-video </span>'
+     ●  clocks  ->   sudo apt-get install gnome-clocks
+     ●  bleachbit  ->  ~/.IDISK/LINUX/32-64/64/bleachbit_4.0.0_all_ubuntu1804 clean 
+     ●  zip unzip -> sudo apt-get install zip    sudo apt-get install unzip  
+        zip -r -s 200m /home/kosy/PHOTO-01/PPT/vienna.zip  /home/kosy/PHOTO-01/PPT
+        7z a -v200m /home/kosy/PHOTO-01/PPT/vienna.7z /home/kosy/PHOTO-01/PPT  
+        WIN_10 ->  D:\Program Files\WinRAR\WinRAR.exe -> Up on level -> D:\Vienna
+        -> Add -> Split то  volumes, size -> 50 -> MB
+     ●  magnify -> sudo apt-get install ~/IDISk/INSTALL/linux/64//kmag_17.12.3-0ubuntu2_amd64.deb
+       ????  Text edit koito ne sym siguren che trqbwa da se instalira 
+             LINUX/64/geany-plugins-common_1.33+dfsg-1+b1_amd64.deb
+           
+    *6. -sublime-text
+             kosy) sleep 1 ; file-roller --extract-to=/opt ~/IDISK/LINUX/32-64/64/sublime_text_build_4107_x64.tar.xz ; sleep 2 ;;
+             inter) sleep 1 ; file-roller --extract-to=/opt ~/IDISK/lINUX/32-64/64/sublime_text_build_4107_x64.tar.xz ; sleep 2 ;;    
+             chefo) sleep 1 ; file-roller --extract-to=/opt ~/IDISK/32-64/32/SublimeText202.tar.bz2 ; sleep 2    
+                   mv /opt/"Sublime Text 2" /opt/sublime_text  ;;  
+          
+
+    7.  xscreensaver ->   ~/IDISk/INSTALL/linux/64/xscreensaver_5.42+dfsg1-1+b1_amd64.deb
+        apt install xscreensaver xscreensaver-data-extra xscreensaver-gl xscreensaver-gl-extra
+        !!!!!!  Startira se prez Startup Aplication ne pres .sh file -> v prozorec Command samo
+        xscreensaver  BEZ OPCIIATA -demo TAKA NE SE POQWQWAT NIKAKWI SABSHTENIA I RABOT OTLICHNO!!!!
+       ●  dconf dump /org/cinnamon/desktop/keybindings/ > ~/work/library/hlp/dconf-settings
+       ●  vlc -> sudo apt-get install ~/IDISk/INSTALL/linux/64/vlc_3.0.9.2-1_amd64.deb 
+          sudo apt-get remove --purge vlc
+       ● restore settings vlc
+        rm -f ~/.config/vlc/*
+        cp ~/work/library/hlp/vlc-qt-interface.conf /home/kosy/.config/vlc/
+        cp ~/work/library/hlp/vlcrc /home/kosy/.config/vlc/
+             
+
+   
+    10. share folder
+
+        Copy folder->  cp -r /home/kosy/work/share_folder /var/lib/samba/
+
+  
+ 
+    *7. vlc -> sudo apt-get install ~/IDISk/INSTALL/linux/64/vlc_3.0.9.2-1_amd64.deb          
+   
+   *14. image editor  pinta 
+       ●   sudo apt install flatpak
+       ●   flatpak --user remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+       ●  flatpak install flathub com.github.PintaProject.Pinta
+       ●  flatpak run com.github.PintaProject.Pinta
+
+       remove,maximized_vert,maximized_horz   
+       check size image file -> file  /home/kosy/work/library/image/icon/numlock.ico
+       resize   128x128 to 32x32 -> 128 - 100
+                                     32 -  x
+       past x to Pinta -> image -> Resize image -> By percentage -> x
+     
+    15. FileZilla 
+         zenity --width=1000 --height=5 --title='Remote control' --info \
+        --text='<span font="12" foreground="black"> 
+      I. Install FileZilla ->Next 3 commande execute automatic:
+   - tar -xf ~/IDISK/LINUX/32-64/FileZilla/FileZilla_3.38.0_x86_64-linux-gnu.tar.bz2  --directory=/opt
+  ●  rm -r ~/.config/filezilla 
+  ●  cp -a ~/IDISK/LINUX/32-64/FileZilla/filezilla ~/.confi
+  ●   uninstall FileZilla3 only ->   rm -r /opt/FileZilla3/bin/filezilla
+  ●   Import ~/IDISK/LINUX/32-64/FileZilla/FileZilla.xml
+
+    main ->  5) ~/work/linux/hot/4-8min.sh; printf $col0 & ;;  
+         5) /opt/FileZilla3/bin/filezilla > 2>&1 >/dev/null &
+            sleep 1 ; zenity --width=800 --height=5 --title='FileZill' --info \
+        --text='<span font="14" foreground="black"> 
+     user/pass /  android   2221 
+
+EBOOK_lenovo 192.168.0.204  /home/kosy/work/ebook  /HLP/EBOOK_L
+
+EBOOK_m301t  192.168.0.205  /home/kosy/work/ebook  /HLP/EBOOK_M
+
+/home/inter/Downloads/       /home/kosy/Downloads/
+
+           </span>'   & ;; 
+
+
+     16. Phone control ->   sudo  apt-get install scrcpy   sudo apt install adb  
+        I. Contact list ->  Diler -> 3 vertical dots -> Settings -:
+         1. Delete contact -> Organize contacts -> Delete contact
+         2. Use contact list -> Contact display -> Only check booton ->  si.mirchev@gmail.com,
+            or Phone contakct, or Mtel sim, or another from check list - IT's ALL.
+         3. If the phone numbers are repeated it's becouse -> Contact display -> Customuse
+            si.mirchev@gmail.com or Mtel -> check box All contact is -> √ or make 2 time 
+            import/export. storage/contact/00001.vcf
+         ii. Import/export contacts -> 
+              1. Export to file -> Copy contacts from -> Phone contakct -> Next 
+              -> Copy contacts to -> Internal storage -> Next -> > 0 selected down right arrow -> Select all -> OK -> Phone say nessage wher save -> Internal storage/Contact/00001.vcf
+              -> remove to  -> /work/library/contact
+              2. Import from file -> Copy contacts from -> Internal storage -> Next -> Copy contacts to -> Phone contact -> /search vCard file / -> Import one Vcard file -> √ -> OK -> show all -> 0000.vcf and ONE.vcf choice with √ -> OK 
+
+         !!!! VERY IMPORTANT -  EXPORT/IMPORT ONLI /work/library/contact/00001.vcf  - !!!!!!! 
+        ●  sms phone folder 
+         adb shell 
+         su
+❌     adb pull /data/data/com.android.providers.telephony/databases/mmssms.db /home/kosy/work
+    cd /data/data/com.android.providers.telephony/databases/
+✅    cp -R  /data/data/com.android.providers.telephony/databases/mmssms.db  /sdcard/A_LENOVO/mmssms.db  
+✅    cp -R  /data/data/com.android.providers.contacts/databases/contacts2.db   /sdcard/A_LENOVO/contacts2.db  
+      open sms 
+      Sql .db file  
+      sudo apt-get install sqlitebrowser
+      https://sqliteviewer.app/ 
+   
+
+    cp -R  /data/data/com.android.providers.telephony/databases/mmssms.db  /home/kosy/work/mmssms.db
+
+    adb -s  /sdcard/A_LENOVO/ pull /data/data/com.android.providers.telephony/databases/mmssms.db
+    adb pull sdcard/DCIM/BIKER/aaa.jpg /home/kosy/A_KOSY_C/aaa.jpg
+    adb pull /data/data/com.android.providers.telephony/databases/mmssms.db /sdcard/A_LENOVO/mmssms.db
+    adb pull mmssms.db 
+    wget -r ftp://android:android@192.168.0.204:2221/data/data/com.android.providers.telephony/databases/
+    wget -r -n H --cut-dirs=5 -nc ftp://user:pass@server//absolute/path/to/directory
+    adb push mmssms.db /sdcard/mmssms.db
+    all sms  text in file  /data/data/com.android.providers.telephony/databases/mmssms.db  = address ; body -> sort date
+    Dialer   text in file  /data/data/com.android.providers.contacts/databases/contacts2.db 
+             tabel Cals ; colomn = number ; name  -> sort date
+    Contacts text in file  /data/data/com.android.providers.contacts/databases/contacts2.db
+    Table -> view_data_restricted -> colm data1
+
+
+          send sms 
+          # adb shell am start -a android.intent.action.SENDTO -d sms:+359889998611 --es sms_body "Здравей_М" --ez exit_on_sent true
+
+          # sleep 2 ; adb shell input keyevent 22 ; sleep 2 ; adb shell input keyevent 66
+
+
+          read -r -p "Enter string: " string    # prompt user to input string
+          string="${string// /%s}"              # replace spaces in string with '%s'
+          printf -v string "%q" "${string}"     # quote string in a way that allows it to be reused as shell input
+          adb shell input text "${string}"   
+
+     18. dict   -  sudo apt-get install dict-gcide     sudo apt-get install dict-moby-thesaurus
+               -  sudo apt-get install gbgoffice 
+              ●   sudo apt-cache search “dict package”    dict -I
+              ●   /home/kosy/IDISK/LINUX/32-64/dict-freedict-eng-bul_2020.12.28-1.1_all.deb
+
+   
+   * 17. bcompare / Beyond Compare -> First delete away trial mode:
+       sudo rm -rf ~/.config/bcompare #thinks bensonkb
+
+       sudo sed -i "s/keexjEP3t4Mue23hrnuPtY4TdcsqNiJL-5174TsUdLmJSIXKfG2NGPwBL6vnRPddT7tH29qpkneX63DO9ECSPE9rzY1zhThHERg8lHM9IBFT+rVuiY823aQJuqzxCKIE1bcDqM4wgW01FH6oCBP1G4ub01xmb4BGSUG6ZrjxWHJyNLyIlGvOhoY2HAYzEtzYGwxFZn2JZ66o4RONkXjX0DF9EzsdUef3UAS+JQ+fCYReLawdjEe6tXCv88GKaaPKWxCeaUL9PejICQgRQOLGOZtZQkLgAelrOtehxz5ANOOqCaJgy2mJLQVLM5SJ9Dli909c5ybvEhVmIC0dc9dWH+/N9KmiLVlKMU7RJqnE+WXEEPI1SgglmfmLc1yVH7dqBb9ehOoKG9UE+HAE1YvH1XX2XVGeEqYUY-Tsk7YBTz0WpSpoYyPgx6Iki5KLtQ5G-aKP9eysnkuOAkrvHU8bLbGtZteGwJarev03PhfCioJL4OSqsmQGEvDbHFEbNl1qJtdwEriR+VNZts9vNNLk7UGfeNwIiqpxjk4Mn09nmSd8FhM4ifvcaIbNCRoMPGl6KU12iseSe+w+1kFsLhX+OhQM8WXcWV10cGqBzQE9OqOLUcg9n0krrR3KrohstS9smTwEx9olyLYppvC0p5i7dAx2deWvM1ZxKNs0BvcXGukR+/g" /usr/lib/beyondcompare/BCompare
+        
+        Then restart BC, click "Enter License":
+
+   
+   21. printer
+        sudo apt-get install libcupsimage2:i386
+       sudo apt-get install /home/$USER/IDISK/INSTALL/lINUX/64/xerox-phaser-6000-6010_1.0-1_i386.deb
+       sudo apt-get install lib32stdc++6
+   22  google Chrome -> /home/acco/.IDISK/LINUX/64/google-chrome-stable_current_amd64.de
+      ●  si.mirchev@gmail.com  di0
+      ●  update -> sudo apt update  & /usr/bin/google-chrome-stable
+      ●  !!!  STOP ASK PASS -> go menu -> Stratup Application -> remove firs Backu passs .... 
+         STOP ASK UPDATE -> chrome://settings/syncSetup?search=relaun
+         Other Google services
+Allow Chrome sign-in
+By turning this off, you can sign in to Google sites like Gmail without signing in to Chrome
+
+    ❗ Share link ❗
+  1. Share link  -> https://drive.google.com/file/d/           1PQ0mcJ1JJgglo_xTp2yEjvf9yjiOHCll/view?usp=sharing 
+  2. Unluck link -> http://drive.google.com/uc?export=view&id=
+  3. Unluck link -> http://drive.google.com/uc?export=view&id= 1PQ0mcJ1JJgglo_xTp2yEjvf9yjiOHCll
+   
+
+      ❗   Google Extensions ❗
+     from file ->  /usr/bin/google-chrome-stable --new-window ~/work/library/bookmarks/browser/extensions.html
+     https://chrome.google.com/webstore/category/extensions?hl=en-US
+     - AdBlock — best ad blocker
+     - BlockSite: Block Websites & Stay Focused
+     - Audio Equalizer for Chrome browser
+     - Export links of all extensions
+   Searc 
+      'python float'-site:w3schools.com
+      "w3schools.com"+'python float'
+      'python float'+'w3schools.com ; stackoverflow.com'
+      'python float'+'stackoverflow.com w3schools.com'
+'linux command line search word in docx file-site:stackoverflow.com
+"linux command line search word in docx file"+"stackoverflow.com"
+"stackoverflow.com"+"linux command line search word in docx file"
+   
+  ❗ Manage certificates  Signature ❗
+      Settings ->  Privacy and Security ->  Security 
+     -> Under ‘Advanced’ -> Manage certificates.
+
+   
+ 
+
+   * 30.ruby Install  =  Irb sreda -. install in robi folder
+      sudo apt update
+      sudo apt install ruby
+      ruby --version
+      sudo apt install irb
+      start program -> ruby invoice.rb
+      start in internrt _> https://www.tutorialspoint.com/execute_ruby_online.php
+                          https://replit.com/languages/ruby
+                          https://www.onlinegdb.com/online_ruby_compiler
+                          https://replit.com/@StefanMirchev/CoordinatedCanineConnections#main.rb
+                          share -> https://replit.com/join/nrtqwuoz-stefanmirchev -> loIn -> si.mirchev@gmail.com di0
+
+https://onlinegdb.com/6kg0r2l0a
+https://onlinegdb.com/_Nh_3paC7
+
+
+    31. pry install Pry -> debuger for Ruby -> idisk -> za programisti w CV posochi ruby/pry
+       sudo apt-get update         sudo apt-get install pry 
+    32.  github        sudo apt-get update    sudo apt-get install git-all ->  git version 2.25.1
+        https://github.com/join     StefanMirchev  / si.mirchev@gmail.com  0987abcdl234
+        https://github.com/settings/connections/applications/Iv1.00d5b33fffc873a2
+        https://github.com/explore
+        https://github.com/rmilushev/sedmodnev/blob/c3ff7b94b85e41f3288ad524fc8b85268618049b/Gemfile.lock      
+    33. Install  libreOffice Word 
+       ●  sudo add-apt-repository ppa:libreoffice/ppa
+       ●  sudo apt update
+       ●  sudo apt install libreoffice
+        -> Spell checker – grammar and spell check in Bulgarian -> F7
+       ●   sudo apt-get update   ;  sudo apt-get install  hunspell-bg   , ako ne se poluchi  -> sudo apt-get install -y aspell-bg  
+       ● Libreoffice Paste Unformatted Text -> Tools -> Customize -> Keyboard -> Shortcut Keys
+       -> Ctrl+V -> Modify -> remove Unformatted Tex / Ctrl+V  is empty /
+       Clickash mnogo e slogno
+
+
+   38. pdf ocr finereader -> /home/kosy/.IDISK/LINUX/32-64/master-pdf-editor-5.7.53-qt5.x86_64.deb !!! no go instaliraj
+           -> sudo apt install ~/Downloads/master-pdf-editor-*.deb
+   39. encoding  
+      xed %U /Text Editor/ -> File -> Save As - Line Eding: -> itryabva 
+      da se promeni ot Windows na Unix/Linux ---- I TOVA E WSICHKO!!! 
+      
+    40. EXTRACT .ISO FILE TO FLASH 
+       file-roller --extract-to=/media/kosy/USB-2G ~/work/iso/Office2007.iso
+    41.  MAKE FLASH INSTALL- INSTALL LINUX FROM USB !Create bootable USB drives FLASH!
+       1. Only Lunux -> Menu -> Disks -> Driwe options /true point/ -> Restore Disk Image
+          -> linuxmint-20.1-cinnamon-64bit-edge.iso -> Restore
+      ❗❗❗ On USB installed full and работен Linux само на най-отдолу иконата Install  се появява        само на инсталция на USB от коята икона може да се инсталира на PC. ❗❗❗ 
+       2. PROGRAMMA  balenaEtcher-1.18.4-x64.AppImage and usb-creator-gtk_0.3.7_amd64.deb
+          -> MAKED THE SAME    
+
+
+    42. el.  signature certificat sign -> IDISK/el.podpis.zip 
+      NEW  SIGNATURE:
+     1. GO ->  https://www.b-trust.bg/client-center/signature-installation
+         email -> si.mirchev@gmail.com     ->  Инсталирайте
+         dounload ->  B-TrustInstaller10-9.exe
+     2.  check certificat -> Google Chrome Options ->
+        -> Up/Right - Update 3 vertical dots -> Settings -> 
+        -> Privacy and security -> Security Safe Browsing (protection from dangerous sites) and other security settings Site Setting
+        -> Manage certificates Manage HTTPS/SSL certificates and settings
+        -> ‎15 ‎януари ‎2023 ‎г. 2:00:00
+    43. VPN
+       -  
+        1. Go to Windscribe and create a free account. 
+        2. sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key FDC247B7
+        3. echo 'deb https://repo.windscribe.com/ubuntu bionic main' | sudo tee /etc/apt/sources.list.d/windscribe-repo.list
+        4. sudo apt-get update && sudo apt-get install windscribe-cli
+        5. windscribe login   
+           amalie1000  /  aa11bb22cc33 / al.moller@tutanota.com
+           simirchev   /  aa11bb22     / si.mirchev@gmail.com 
+        6. Connect to Windscribe:
+        7. windscribe connect
+        8. To disconnect just type windscribe disconnect.
+        9. windscribe locations
+       10 windscribe connect "No Vampires"
+
+       / Windscribe openvpn paste in Google searc -> How to Set Up OpenVPN on Ubuntu 20.04
+        https://www.cyberciti.biz/faq/ubuntu-20-04-lts-set-up-openvpn-server-in-5-minutes/#Find_public_IP
+        amalie1000 / aa11bb22cc33 /
+       -  OpenVPN 
+          sudo apt-get install openvpn
+          Download from   https://www.vpnbook.com/  
+          -> OpenVPN -> Server: Download PL226 Server OpenVPN Certificate Bundle 
+          and  username/password  vpnbook   z93cvfv
+          Unzip the OpenVPN profile bundle  _> ~/vpnbook
+          cd ~/vpnbook 
+          sudo  openvpn --config vpnbook-pl226-udp53.ovpn
+          user / pass   ->  vpnbook   z93cvfv  -> with finger 
+          open cprrectly -> Initialization Sequence Completed
+          disconnect  OpenVPN _>  sudo killall openvpn
+       ProtonVPN 
+           Name:   ProtonVPN JP-FREE#272007
+           Gateway:      45.14.71.7:80, 45.14.71.7:51820, 45.14.71.7:4569, 45.14.71.7:1194, 45.14.71.7:5060
+           Type: Password  
+           User: CeF4x2UJ5EadeUP2+pl+b:3+f0 
+           Pass: ????
+           Advanced - ProtonVPN.jpg
+           ~/.cert
+    44. Ascii ansi code Western (iso-8859-1) = ANSI
+    Western (ISO-8859-1)
+        man ascii
+        for ((i=32;i<127;i++)) do printf "\\$(printf %03o "$i")"; done;printf "\n"
+        awk 'BEGIN{for(i=32;i<127;i++)printf "%c",i; print}'
+
+    45. open with -> ~/.local/share/applications ; ~/.config/mimeapps.list
+    46. read version check version .deb packe 
+       -> dpkg --info yourfile.deb | grep Versio 
+    47. Zombie process
+       - identify zombie process   -> ps aux | egrep "Z|defunct"
+                                   -> top -b1 -n1 | grep Z
+                                   -> ps -ef | grep defunct
+       - find the parent process   -> ps -o ppid= <Child PID>
+       -                           -> top -b -n 1 | head -n 12
+       - kill                      -> kill -s SIGCHLD <Parent PID>
+       - kill -> $(ps -A -ostat,ppid | awk '/[zZ]/ && !a[$2]++ {print $2}')
+    48. sudo with -> pass echo <password> | sudo -S <command>
+           echo "1" | sudo -S -k   <command>
+           echo "1" | sudo -S -k   sudo  ip link set eno1 down
+
+    50. wine  https://wiki.winehq.org/Ubuntu
+          naprivi pyrvo -> dpkg --print-architecture -> otgovor -> amd64
+          tova e da instalirash 32 versiq ->  sudo dpkg --add-architecture i386 -> sudo apt-get update
+          wget -nc https://dl.winehq.org/wine-builds/winehq.key
+          sudo apt-key add winehq.key
+
+    51. java 
+      sudo apt update
+      sudo apt install default-jdk
+      java -version
+    52  convert  to .deb ->  sudo -s    alien pinta.tar.gz  pinta.deb    gdebi pinta.deb 
+    53.                INCOMING                  OUTGOING
+       Protocol:       IMAP                      SMTP
+       server:         imap.gmail.com            smtp.gmail.com
+       Port:           993                       465
+       SSL:            SSL/TLS                   SSL/TLS
+       Authentication: OAuth2                    oAuth2
+       Username:       si.mirchevO1@gmail.com    si.mirchev0i@gmail.com
+     54. List font stile  ->   fc-list : family | sort | uniq
+     # mono 14' 300 325 = 27 space ; 385 = 32 395 = 33 410 = 34  12 123456789012345678901234567
+     55. Youtube - download online videos from the Linux command line using Youtube-dl
+         https://linuxconfig.org/how-to-download-online-videos-from-the-command-line-using-youtube-dl
+         sudo dnf install youtube-dl
+         youtube-dl [OPTIONS] URL
+    
+         Dowunload 
+         not work -> wget https://transfer.sh/c71Buu/home/inter/Downloads/timer.sh
+         work -> wget https://transfer.sh/c71Buu/timer.sh
+
+          youtube-upload \
+            --title="A.S. Mutter" \
+            --description="A.S. Mutter plays Beethoven" \
+            --category="Music" \
+            --tags="mutter, beethoven" \
+            --recording-date="2011-03-10T15:32:17.0Z" \
+            --default-language="en" \
+            --default-audio-language="en" \
+            --client-secrets="my_client_secrets.json" \
+            --credentials-file="my_credentials.json" \
+            --playlist="My favorite music" \
+            --embeddable=True|False \
+            fawlty.mp4
+          tx2Zb-145Yz
+      56. ❗❗❗  DOWNLOAD ANY .deb file 
+          wget https://dbeaver.io/files/dbeaver-ce_latest_amd64.deb
+          install .deb file -> sudo dpkg -i dbeaver-ce_latest_amd64.deb 
+      57. never open .MDB file with linux becouse not utf-8 open only Windows
+      58. Convert pdf to text
+        $ convert *.jpg pictures.pdf
+        $ ocrmypdf pictures.pdf scanned.pdf
+        $ pdftotext scanned.pdf scanned.txt
+        $ wc -w scanned.txt
+     59. Install .deb  -> sudo gdebi viber.deb
+         Viber /var/lib/systemd/coredump 
+      /var/lib/flatpak/repo/refs/heads/deploy/app
+      /lib/systemd/system/user-.slice.d/10-defaults.conf
+      duzOC3taaWXNcvOxkyY8aXa47qabZTYelC250UUYoRCg
+      https://www.youtube.com/watch?v=mcn-RNxrrCw
+
+     60  Boot USB bootable USB drives or SD cards -> balenaEtcher-1.5.65-x64.AppImage
+     61. KOMOPRESOR - IN YOUTUBE -> How to connect a compressor from a refrigerator to 220 V.
+     https://www.youtube.com/watch?v=e1PhE8nlGso&ab_channel=%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B8%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81
+     62. BANKOMAT ATM  Услуга / Внасяне / Депозит
+     63. DEB ARHUV -> /var/cache/apt/archives/ 
+ 🏁   --------------------------INSTALL END --------------------------------
+
+
+  ⏩ ----------------------------REPAIR  BEGIN  ERROR -----------------------------------
+   !!!! AKO PROGRAMA BLOKIRA VIG I CONFIGA-> ZASTOTO NQKOI PROGRAMI SLED INSTALCIQ
+   !!!! DA NAPISHAT V NEGO NESTO I SLED UNISTALL IM PORADI NENUGNOST NE PREMAHVAT
+   !!!! NAPISANOTO V CONFIGA I TOVA BLOKIRA PROGRAMTA CHIITO E CONFIGA
+   !!!! TAKA SE POLUCHI GITHUB
+  1. MAIN MENU - INSTALL PROGRAMMS -> mouse right botton /down left/ -> Configure -> Menu ->
+      Open the menu editor
+  1. Pri blokirane na OS - fsck /dev/sda1  Enter   Y-do kraya reboot
+  2. unable to launch "cinnamon-session-cinnamon" X session --- "cinnamon-session-cinnamon" not found; 
+      falling back to de:
+         ●  Click ok.
+         ●  Get the black screen? Type Cntrl-Alt F1
+         ●  Get the prompt?
+         ●  Login with your name and password.
+         ●  sudo apt-get update
+         ●  sudo apt-get install nemo
+         ●  sudo apt-get install cinnamon
+         ●  reboot
+  3. check system check run system poces   ->  inxi -b  ; inxi -Fxz  ; lsmod |grep video ; 
+       ❗   /usr/bin/gnome-control-center datetime 
+       prowerqwva procesa i ako procesa go ima e ravno na 1 ako ne e 0
+       tr1="aaa='~/work/linux/trans1.txt - Sublime Text (UNREGISTERED)'"
+       IF NOT WORK -> see volume.sh
+       
+       if  [ $(wmctrl -l | grep "Windy" 2>&1 | wc -l) -eq 1 ]; then  #   1- exist     0-Not exist
+          echo 'YES'  ;  yad --info --text "YES  $(wmctrl -l | grep "MainMenu" 2>&1 | wc -l) "
+        else
+          echo 'NO' ;   yad --info --text "NO   $(wmctrl -l | grep "MainMenu" 2>&1 | wc -l) "
+       fi
+       sleeping processes -> top -bn1 | awk 'NR > 7 && $8 ~ /S|D/ { print $12 }'
+       
+       super+alt+t -> run user programs
+       sudo lshw -class network -short
+        hostnamectl
+       "pqiv: /home/kosy/work/library/image/icon/numlock.ico (32x32) 100,00% [1/1]"   
+        e ravno "pqiv: /home/kosy/work/library/image/icon/numlock.png"
+      ●   display -> adb shell wm size  ; adb shell wm density     
+      ●   battery -> adb shell dumpsys battery ; adb shell dumpsys batterystats | more
+                     adb shell dumpsys battery | grep level
+      Tasklist check run sh file  -> ps aux  ->  grep chrome 
+      ●   result=`ps aux | grep -i "main.sh" | grep -v "grep" | wc -l`
+         if [ $result -ge 1 ]
+            then
+                 echo "script is running"
+            else
+                 echo "script is not running"
+         fi
+      ●     getscript() {
+                         pgrep -lf ".[ /]$1( |\$)"
+                       }
+          if getscript "main.sh" >/dev/null; then
+            yad --info --text="RUNNING"
+          fi
+      ●   pgrep main.sh && echo RUNNING 
+        scripToTest="main.sh"
+        scriptExist=$(pgrep -f "$scripToTest")
+        [ -z "$scriptExist" ] && echo "$scripToTest : not running" || echo "$scripToTest: runnning"
+  5. Pri blokirane na OS
+     -boot to the linux mint version.
+     -Wait for the login screen and login. 
+     -Get the error? Click ok.
+     -Get the black screen? Type Cntrl-Alt F1
+     -Get the prompt?
+     - Login with your name and password. MALKI BUKVI $USER i pass 1
+     $ sudo apt-get update
+     $ sudo apt-get install nemo
+     $ sudo apt-get install cinnamon
+     $ reboot
+   6.Try 'apt --fix-broken install' with no packages (or specify a solution)
+    sudo apt-get update  ; sudo dpkg --configure -a ; sudo apt-get clean ; sudo apt-get install -f ; sudo dpkg --configure -a
+   7. (initramfs) steps: 1. exit 2. (initramfs) fsck /dev/sda1 -y 3. (initramfs) reboot
+   8. printscreen 
+      Ctrl + PrintScreen to copy a screenshot of the whole Desktop.
+      Ctrl + Alt + PrintScreen to copy a screenshot of the current active Window.
+      Ctrl + Shift + PrintScreen to copy a screenshot of an area you select with your Mouse.
+   9. Softuare Mnager / System  - this work:
+  ●     sudo apt-get update
+  ●     sudo apt-get dist-upgrade
+       this I don't know:
+  ●  sudo apt-get install--reinstall mintinstall
+  ●  sudo apt install mintinstall
+  ●  sudo apt install mint-meta-cinnamon mint-meta-core
+  ●  sudo apt-get install mintinstall
+  ●  sudo apt-get install flatpak
+  10. Restore taskbar -> Up 3 rows ->
+     ●  Icons arange move -> Menu -> System settings -> Apples -> Grouped window list 
+     -> Configure -> Restore to defoults.
+     ●   Right-click an empty area of the panel. -> lick Troubleshoot.
+      -> Restore all settings to default.
+  11. unlock keyring desale -> rm -v ~/.local/share/keyrings/*.keyring
+  12. unable to locate mail spool file. or. not work email ->
+      delete  ->   sudo rm -r /home/$USER/.thunderbird 
+  13. Notifications
+      Are you sure you want to remove 'Notifications'?
+      No   -> PRESS -> No                         Yes  
+
+      You are currently running in fallback mode
+      Disable downloaded applets, desklets and extensions
+      No  -> PRESS -> No                           Yes  
+     ⚠️Repair❗
+     Menu -> Settings -> Applets -> Notifications -> +
+      - ❗remove from panel/taskbar -> Applets -> Notifications ->
+        -> Behavior -> Ignore transient notifications ❗ON❗ and
+        -> Shift+Super+C
+      - read notifications -> Super N
+      - clear notifications -> Shift+Super+C
+      Send notifications ->notify-send "Hello World"
+
+  14. Holding down arrowkey doesn't work 
+      I. keyboard-> Typing -> Key repeat -> Anble key repeat
+     II.
+      -> apt install dconf-editor
+      -> dconf-editor
+      -> Navigate to org/cinnamon/settings-daemon/peripherals/keyboard ->
+      -> repeat-internal key Repeat Interval = 30
+ 15.   ❓
+ 16. A problem has been detected with your thumbnail cache. Fixing it will
+     require administrative privileges. 
+     ->      sh -c "pkexec nemo --fix-cache
+     ->      sudo nemo --fix-cache
+     ->      rm -Rf ~/.cache/thumbnails.
+
+ 17  ssh: connect to host 192.168.0.207 port 22: Connection refused
+     install ->  sudo apt install openssh-server
+     check   ->  sudo apt list --installed | grep openssh-server
+  If Ok - WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+        openssh-server/focal-updates,now 1:8.2p1-4ubuntu0.5 amd64 [installed]
+  18. NT_STATUS_ACCESS_DENIED opening remote file 
+       in kosy  sudo smbpasswd -a kosy
+       in inter sudo smbpasswd -a inter
+  19. Could not update iceauthority file /home/user/.iceauthority llog out
+1)press ctrl+alt+F2
+2)login with your root
+3)if you not create secondary user already, create user as
+useradd <user1>
+passwd <user1>.
+sudo chown user1:user1 /home
+sudo chown user1:user1 /home/user1
+sudo chown user1:user1 /home/user1/.ICEauthority
+4)$sudo chown user1:user1 /home/user1/.ICEauthority
+$sudo chmod 777 /home/user1/.ICEauthority
+$sudo chown user1 -R /home/user1
+  20. Delete  cookies clear cookies
+     I> Linux
+     1. rm -r ~/.cache/mozilla  &&  rm -r ~/.cache/google-chrome  && rm -r ~/.cache/thumbnails
+     2. Google -> ⋮☰ -> Settings -> Application -> Cookies 
+                  ⋮☰ -> More tools -> Clear browser data = Ctrl+Shift+Del
+     3. Mozila -> ☰ -> Library -> History -> Clear recent history
+    II. WIN 
+       c:\bat\COOKIES_DELETE .BAT
+  21 Audacity -> Automatic crash recovery -> del folder /var/tmp/audacity-inter
+  22 Error: Dependency is not satisfiable: smplayer (= 20.6.0~dsQ-1) -> https://linuxhint.com/prevent_fix_package_dependency_errors_ubuntu/
+  23. Unlock login keyring -> rm -v ~/.local/share/keyrings/*.keyring 
+      https://easylinuxtipsproject.blogspot.com/p/tips-1.html#ID15
+      Show / Remove delete saved passwords browser -> chrome://settings/passwords
+  24. Error mounting /dev/sda1 at /media/kosy/SFBF2E5FO99983A6: Unknown error when 
+mounting /dev/sda1 -> 
+    1. lsblk
+    2. sudo ntfsfix /dev/sdb1, sda1..... sdb
+
+ 🏁   ------------------------REPAIR  END ----------------------
+
+
+
+ ⏩  -------- BASH = ZSH COMMANDS / SCRIPT BEGINGIN----------------
+   
+     LINUX COMANDI = http://ss64.com/bash/
+     1. Batch file 
+                   wineconsole file.bat
+                   wineconsole cmd /k file
+                   wine cmd /k file
+  
+    2. Shortcut samo za folder za fajl nyama 
+    3. Shortcut folder ->  ln -s /home/$USER/WORK/LINUX Work /home/$USER/Desktop
+       ln -s  /home/$USER/.wine/dosdevices/c:/HLP/EBOOK/ Work /home/$USER/Desktop
+    
+    5. Bash commands:
+    print the current workRead Write exe  foldering directory  (pwd)
+    navigate between directories on your computer (cd)
+    create folder directories                        (mkdir)
+    open folder -> nemo
+    check curent folder read folder -> pwd
+    list  files and subdirectories within directories (ls)
+    delete files ->   rm /home/$USER/work/linux/ruby/.a01.rb.swp
+    if  [ -d "/home/$USER/.config/sublime-text/Local" ];  then rm -r /home/$USER/.config/sublime-text/Local ; else  echo 'bbbb' ; fi  
+    delete folder ->   sudo rm -r /my/locked/directory 
+    delete folder ->   sudo rm -r /home/$USER/Desktop/MYJOB/WORK/LINUX/LIBRARY/
+    read patch read folder  
+      myvar0="$1" ; sleep 0.5 ; fold0=${myvar0%/*} ; sleep 0.5 ; file0=${myvar0##*/} ; cd $fold0 
+      # foldrem0=${fold0:10:30}
+    Learn Enough Git
+    rename folder ->    mv /home/user/oldname /home/user/newname
+    rename file   -> mv -f 
+    check exist file 
+         if [ -f "$FILE" ] ; then
+         if test -f "$FILE"; then
+             echo "$FILE exists."
+         fi 
+    check current  folder -> echo "$PWD" 
+    check folder exist   exist folder 
+          if  [ -d /home/$USER/work/pro ]; then  yad --info --text "Exists" ; else yad --info --text "Not found"  ; fi 
+
+    rename -> a=1 ; for i in IMG_*.jpg; do  new=$(printf "%03d.jpg" "$a") ; mv -i -- "$i" "$new" ; a=$((a+1)) ; done
+    
+    rename ->  a=1 ; for i in *.png; do  new=$(printf "%03d.png" "$a") ; mv -i -- "$i" "$new" ; a=$((a+1)) ; done
+
+    rename -> 
+    n=0
+     for f in $( ls ~/Adir | sort ) ; do
+     for f in $( ls  | sort ) ; do
+    for f in *.png ; do
+        n=$(( n+1 ))
+        mv -n "$f" "0${n}.png"
+    done
+
+    copy files  cp    copy folder  cp -r 
+    all filese cp /*  NOT /*.* 
+    easily create new files using a single command        (touch)
+         cp /home/$USER/WORK/linux/MENU_SH/PROC.sh  /home/$USER/WORK/linux
+         cp /home/$USER/WORK/linux/MENU_SH/PROC.sh  /mnt/9400FC4B00FC3638/WORK/linux
+    read subfolders folders list all files 
+    !!!! SPACE IN FOLDER NAME /My Disc1 is name DVD/ /media/chefo/My*Disc1
+    read file ->  ls -d $(find) ; ls -1 -x  ;   ls -al ;  ls */*  ;  find "$PWD" 
+         ls -R ~/IGO_2018 | awk '/:$/&&f{s=$0;f=0}/:$/&&!f{sub(/:$/,"");s=$0;f=1;next}NF&&f{ print s"/"$0 }'
+
+
+         cd .. -> go dowun folder
+        
+         #!/bin/bash
+         filename='trans1.txt'
+         n=1
+         while read -r line; do
+         # reading each line
+         echo "Line No. $n : $line"
+         echo "Line No. $n : "
+         sleep 3
+         n=$((n+1))
+         done < $filename
+
+         COUNTER=0
+         input="/home/kosy/work/linux/abc1.txt"
+         while IFS= read -r var
+         do
+           echo "$var"
+           sleep 1
+           COUNTER=$[$COUNTER +1]
+         done < "$input"
+         echo " $COUNTER "
+         
+         read file into variable to variable 
+      
+          value=`cat config.txt`
+          echo "$value"
+
+          Count odd even 
+          for k in {0..49}; do a=$(($((2*$k))+1)); echo $a; done
+          for (( k = 0; k < 50; ++k )); do  a=$(( 2*k + 1 )) ; echo "$a" ; done
+          run ever second  
+          while sleep 1; do echo "aaa"; done
+          Exit from cycle =>  break
+          while true 
+             do
+             done
+
+     6. Read Write execu    folder   -  chmod -rwx /home/$USER/WORK
+     7. Kill player -> killall celluloid  ;  pkill main.sh
+            pkill pid    
+            pkill -f main.sh  Searches the process_name (see man pkill)       .  
+            pkill -o main.sh  Select only the oldest of the matching processes.  
+            pkill -n main.sh  Select only the newest of the matching processes.  
+            pkill -l main.sh  List the process name as well as the process ID .  
+        PID ONLY :
+             ps -ef | grep -w 'Viber$' | grep -v grep
+             PID=$(ps -ef | grep Viber | grep -v grep | awk '{print $2}')
+             echo $PID
+             processID=$(pidof -s "Viber")
+             PID=$(pgrep Chromium) 
+
+
+     8. Print array elements on separate lines in Bash   cut  split 
+            aaa=$(adb shell dumpsys battery | grep power) 
+            for var in "${aaa[@]}"
+            do
+              echo "var"
+            done
+            
+            for var in "${aaa[*]}"
+            do
+              echo "$var"
+            done
+
+            echo "${aaa[*]:2:2}${aaa[*]:13:6}"
+
+            my_array=(one two three)
+            for i in ${my_array[@]}; do echo $i; done
+            IFS=$'\n' echo ${my_array[*]}
+            printf '%s\n' "${my_array[@]}"
+            history -p "${my_array[@]}"
+            echo "${my_array[@]}" | tr ' ' '\n'
+            IFS=$'\n' eval 'echo "${my_array[*]}"'
+     9. Warpinator - list local Area Connection
+    10. !!! remove permition folder -sudo chmod -R ug+rw foldername  ; sudo chmod -R 2775 /home/inter/work
+        folder: !!! PROMENQ VSICHKO NEOBHODIMO ZA FAILOVETE V PAPKATA -> chmod +777 ~/work/linux/*.* 
+        files:
+        !!!! Svalya katenara t.e. wsichki faylove v ~/work/linux veche sa i write !!!!!!!!!  
+             sudo chown -R $USER: ~/work/* 
+    11. Prawish ya root folder -> sudo chown $USER:$USER ~/work/library/hlp/,
+        wyzstanowqwane s desen buton na mishkata wyrhi folder
+    12. Search find -> search content of file linux command
+           grep -rnw '/path/to/somewhere/' -e 'pattern'
+           grep --exclude=\*.o -rnw '/path/to/somewhere/' -e "pattern"
+           grep -rnw ~/work/library/hlp/ -e "/path/to/somewhere" --color=never
+    13. bash:tip_colors_and_formatting -> https://misc.flogisoft.com/bash/tip_colors_and_formatting
+                                       -> https://unix.stackexchange.com/questions/94498/what-causes-this-green-background-in-ls-output 
+    14. Write text into file -> echo 'LS_COLORS="$LS_COLORS:di=01;33"' >> .bashrc
+        write file / read file   
+         echo 30  >> $booz0
+         read -r sec0 < $booz0 ; echo $sec0 sleep 3
+         ❗❗❗  sed -i 's/old-text/new-text/g' input.txt. ❗❗❗
+         sed -i '1s/^/6\n/' ~/work/proc/booz.txt ; sleep 0.2 ; ~/work/proc/booz.sh &
+    15. A. wmctrl
+       wmctrl -G -l -> run procedure, open files, control window, X Y coordinat
+         - min mininmised window -> xdotool getactivewindow windowminimize
+         or 
+         #  while [ "$(wmctrl -l | grep 'Document Scanner')" = "" ]; do
+         #    echo "Waiting..." > /dev/null
+         #  done
+         # xdotool windowminimize $(wmctrl -l | grep 'Document Scanner' | awk '{print $1}')
+
+         - wmctrl -c killall proces -> aaa='~/work/linux/trans1.txt - Sublime Text (UNREGISTERED)'
+         wmctrl -c $aaa 
+         !!!!!     SECOND OPTION  !!!!
+          xdotool key q ; ;
+          xdotool getactivewindow windowmove 100 100 ; xdotool type 'some text'
+          resize -> wmctrl -r mozilla -e 0,100,0,100,600 -b  
+          resize -> wmctrl -r "Google Chrome" -e 1,50,50,600,400
+          wmctrl -r "Picture-in-Picture" -e 1,1600,0,355,200
+          change title ->  xdotool search --name "Chromium" set_window --name "PHP"   
+      ❗❗❗ kill process ->  killall volume.sh ; wmctrl -c "VOLUME" 
+    16. Real time mouse position. ->  wmctrl -r "Terminal" -b toggle,shaded  
+    watch -t -n 0.0001 xdotool getmouselocation  
+    xdotool getmouselocation --shell
+    xdotool mousemove 1000 1000 
+    xdotool mousemove 1800 500
+    xdotool click 1 -> left click
+    xdotool click 3 ->  right click
+    xdotool mousemove $[X0-X3-50] $[Y0-Y3-50]  ; sleep 1 ; xdotool click 1 ; }
+  
+  transwin() {
+  sleep 2
+   xdotool keydown alt key Tab ; sleep 3.5 ; xdotool keydown alt key Tab ; sleep 3.5 ; xdotool keyup alt 
+#  xdotool keydown alt key Tab ; sleep 3.5 ; xdotool keyup alt 
+             }  ; export -f transwi
+       B. 
+а0=xrandr --listmonitors
+a1=$(xrandr |awk '$0 ~ "*" {print $1}')
+output=$(xrandr | grep ' connected ' | awk '{print $1}' | head -1)
+screenSize=$(xrandr | awk 'BEGIN {foundOutput=0} / '$output' / {foundOutput=1} /\*\+/ {print $1}
+/^[^ ]/ {if(foundOutput) exit 0}')
+
+       fold0=$(echo $screenSize | cut -d'x' -f1)
+       sear0=$(echo $screenSize | cut -d'x' -f2)
+       fold1=$(echo $a1 | cut -d'x' -f1)
+       sear1=$(echo $a1 | cut -d'x' -f2)
+
+yad --fixed --text "1. $(xrandr --listmonitors)"
+yad --fixed --text "2. $а0"
+yad --fixed --text "3. $(xrandr |awk '$0 ~ "*" {print $1}')"
+yad --fixed --text "4. $a1"
+yad --fixed --text "5. $screenSize"
+yad --fixed --text "6. $fold0  $sear0 "
+yad --fixed --text "7. $fold1  $sear1 "
+
+    17.● I. part of string substr extrac  ->  foo=bar ; echo ${foo:0:2}  
+      -  second row 
+         var=$(echo -e "AAA\nBBB" | awk 'NR==2')
+         var=$(echo -e "AAA\nBBB" | sed -n '2p') 
+      - read content read text read txt subs string str string see cloud.sh ->  choice0=$(echo ${str0:$len0:3} | sed "s/ //g") 
+     if [ -z "$var" ] ; then
+       echo "\$var is empty"
+    else
+      echo "\$var is NOT empty"
+    fi
+     if ! [ -z "$var" ] ; then
+       echo "\$var NOT is empty"
+    else
+      echo "\$var is empty"
+    fi
+    
+    empty file 
+
+    if [ -z "$(cat ccc.txt)" ];  then
+           echo "File is empty"
+      else   
+          echo "File is not empty"
+      fi
+
+    len string echo -> echp ${#str1}  in cloud.sh
+    Check button yes /no 
+    if [ $? = 0 ]; then   #  check button YES /NO
+          echo 'YES' 
+        #  adb shell am start -a android.intent.action.CALL -d tel:+919999999999
+          adb shell am start -a android.intent.action.CALL -d tel:$sear0
+          sleep 15
+     else
+          echo 'NO' 
+     fi
+    - repeat character repeat string  add strig add char add space blank space empty space 
+         sp0=$(perl -E 'say " " x 17') 
+         echo $sp0 DDDD 
+         seq -s= 100|tr -d '[:digit:]'
+         printf %100s |tr " " "="
+         printf '=%.0s' 1 2 3 4 ... 100
+         printf '=%.0s' {1..100}
+       
+         sum string an next row  concatenate string variables concatenate string in variables
+         - var0=$var0\\n$i 
+         - var0="aaa" ; var1="bbb" ; var2=$var0\\n$i\\n$var1 ; echo $var2
+         - var0="aaa"  ; var0+="bbb" ; echo $var0
+         - var0="aaa"  ; var0+="\\nbbb" ; echo $var0
+
+
+  ● II.remove the leading white spaces trim
+       str0='aaaaaaaa ^ bbbbbbbbbbbbbb ^ cccccccccc' 
+       echo $(echo $str0 | cut -d '^' -f1 )          
+       echo $(echo $str0 | cut -d '^' -f2 )          
+       echo $(echo $str0 | cut -d '^' -f3 )  
+       echo some text with spaces | sed -e 's/ //g'
+       echo some text with spaces | tr -d ' '
+       remove space         -> fname="  aaaa ddddd" ; echo  $fname | sed "s/ //g"
+       repl a with 1        -> fname="  aaaa ddddd" ; echo  $fname | sed "s/a/1/g"
+       Repl repeat a character ->  perl -E 'say "=" x 100'
+       copy variable to clipboard
+       NO TRIM echo "$str0" | sed 's/^ //g' | xclip -sel clip  -> NO TERMINAL, A RUN
+       MYVAR="aaaa/bbbb/ccc/users/joebloggs/domain.com" 
+       echo ${MYVAR##*/}
+       https://stackoverflow.com/questions/19482123/extract-part-of-a-string-using-bash-cut-split 
+       leading white spaces –> echo '    hello           1' | sed "s/^[ \t]*//"
+       from here to end     -> echo '    hello            ' | sed 's/[[:blank:]]*$//' 
+
+    18. browser tab show open sorces Ctrl+u  Close browser tab Ctrl+w
+      - sudo sh -c 'echo "0.0.0.0 http://facebook.com" >> /etc/hosts'   
+      - /home/$USER/work/library/sublime/sublime-text.sh/etc/hosts
+    19. Index of  -> poqwqwa se samo ako nqma file index.php 
+
+    20. Arithmetic I option - expression: 
+
+              ==  !=     <    >   <=   >=   &&  ||
+              -eq -ne   -lt -gt  -le  -ge  AND  OR
+      
+              
+               ==  Equal
+              -ne !=  Not equal
+              -lt <   Less than
+              -le <=  Less than or equal
+              -gt >   Greater than
+              -ge >=  Greater than or equal
+
+               (( 3 < 2 ))  
+
+               if($a = "Peter"){
+                        …
+                        }
+        Boolean data type Булев bulev  -> false true  
+        [[ ]] string conditionals, pattern matching and file tests
+        (( )) arithmetic expressions and conditionals
+        [ ] test command: handles both, special nonstandard syntax for boolean operators and   comparison operators
+
+           used for numerical  -> -gt, -lt 
+
+          (( 12 <= 15 ))  e ednakwo s [[ 12 -le 15 ]] e ednakvo na [ 12 -le 15 ]
+        if not    
+       if [ ! -t 0 ]; then x-terminal-emulator -e "$0"; exit 0; fi
+         if [ "$fname" = "a.txt" ] | [ "$fname" = "c.txt" ]; then
+              echo "yes!"
+        else
+              echo "no!"
+        fi
+
+        if expr 1 \< 2
+
+
+       ((x=11)); ((y=7))
+      if (( x > y )); then
+           echo "x > y"
+      fi
+      x > y
+
+         if TEST-COMMAND1
+         then
+           STATEMENTS1
+         elif TEST-COMMAND2
+         then
+           STATEMENTS2
+         else
+           STATEMENTS3
+         fi
+
+      if test -f ~/aaa.txt; then
+          rm ~/aaa.txt
+      fi
+         Operator    Description
+         ! EXPRESSION    The EXPRESSION is false.
+         -n STRING   The length of STRING is greater than zero.
+         -z STRING   The lengh of STRING is zero (ie it is empty).
+         STRING1 = STRING2   STRING1 is equal to STRING2
+         STRING1 != STRING2  STRING1 is not equal to STRING2
+         INTEGER1 -eq INTEGER2   INTEGER1 is numerically equal to INTEGER2
+         INTEGER1 -gt INTEGER2   INTEGER1 is numerically greater than INTEGER2
+         INTEGER1 -lt INTEGER2   INTEGER1 is numerically less than INTEGER2 
+      21.   
+      22.   Arithmetic II - option 
+           
+            bc -l <<< 'scale=2; 100/3'  
+            bc  <<< 'scale=2; 100/3' 
+                  
+           plus  -  minus  -  multiplication  -  division
+
+           x0=12.8 ; a0=$((($x0*300)/5.3))  ; echo $a0 
+           x0=12.8 ; a0=$(echo "scale=4; ($x0*300)/5.3" | bc -l ) ; echo $a0 
+           y0=1    ; b0=$(echo "scale=4; ($y0*140)/1.8" | bc -l ) ; echo $b0 
+
+           a=$(($((2*5))+1))  a=$((2*5-1))  a=$((21/3-1))  
+           a=$((2+1)) a=$((2*5)) 
+            variable 
+             num=$[Y0+Y3-30] ; num=$((num1 + num2)) ; num=$(($num1 + $num2))  
+            ROUND
+            x0=0.1200 ; a0=$(echo "scale=6; ($x0*4.19)+10/2" | bc -l ) ; echo $a0
+            a0=$(echo | awk '{print 7/3}') ; echo $a0 
+            next cut not round
+            float=10.7444566 ; a0=$(printf %.0f\\n $float) ; echo $a0  
+            next round  %.6f -> 3 after point  
+            echo a0=$(printf %.3f\\n $(echo "((133/9))" | bc -l )) ; echo $a0 
+
+            
+     
+     23. sound  - > pactl set-sink-volume 0 40000 
+         pactl set-sink-volume 0 +15% ; pactl set-sink-volume 0 -15%
+         val0=$(pactl list sinks | grep '^[[:space:]]Volume:' | head -n $(( $SINK + 1 )))
+         - in number -> echo ${val0:20:6}
+         - in   %    -> echo ${val0:30:2}
+         microphon record   -> pactl set-source-volume 1 30000
+         microphon record -> arecord -vv -fdat  ~/Music/record.mp3
+         NOT  parec -d 0 | lame -r -V0 - ~/Music/record.mp3
+         arecord | aplay  ;   arecord -f FLOAT_LE -r 192000 -B 1 | aplay
+         arecord -vv -fdat foo.wav
+          VIDEO record desktop -> ~/work/ffmpeg/ffmpeg.sh 
+
+      ●  Output Device       
+          • check device ->  pactl list short sinks
+          •  set - FFT based equalizer on Family 17h (Models 10h-1fh) HD Audio Controller Analog stereo 
+           ->  pactl set-default-sink 'alsa_output.pci-0000_03_00.6.analog-stereo.equalizer'
+          •  set Headphones Family 17h (Models 10h-1fh) HD Audio Controller
+           ->  pactl set-default-sink 'alsa_output.pci-0000_03_00.6.analog-stereo'
+          • midomi
+
+     24.  echo $(date +"%d-%m-%y")  ; echo $(date +'%d/%m')=16/10 
+          echo $(date '+%C%y%m%d') 
+          echo $(date -ud "2021-11-15" +%A)
+          echo $(date -ud "2021-11-$((day + 11))" +%A) 
+         m=1 ; echo  $(date -d "$(($m%12+1))/1 - 1 days" +%d)
+         echo $(date -d "+2 days" +%Y%m%d)  
+         m=1 ; echo $(date -d $m/1/1 +%b) 
+         m=1 ; echo $(date -d $m/1/1 +%b) - $(date -d "$(($m%12+1))/1 - 1 days" +%d)
+         date0=$(date +%Y%m%d) 
+         date1=$(date -d "-3 days" +%Y%m%d)
+         date2=$(date -d "+3 days" +%Y%m%d)
+         echo ${today[@]}
+         if expr "$date1" "<=" "$date0" > /dev/null && \
+         expr "$date0" "<=" "$date2" > /dev/null; then echo "YES"; fi
+
+      25. 
+      26. terminal histori last install !!!! AT THE BOTTOM !!!!
+          - ~/.bash_history <- history terminal
+          - grep " install " /var/log/dpkg.log  <-  list recently installed packages that were installed via any method (apt-get
+          - awk '$3~/^install$/ {print $4;}' /var/log/dpkg.log   <-  list only the recently installed package names
+          - grep " install " /var/log/apt/history.log   <-  list dependencies installed, it simply lists previous apt-get commands that were run
+          - grep " install " /var/log/dpkg.log.1 /var/log/dpkg.log  <- To see also older packages sorted by time of installation:
+       27. viber contact list export 
+           - sudo apt-get update    sudo apt-get install sqlitebrowser
+           - sqlitebrowser viber.db -> Contakt
+       28. format a USB flash drive?   -> lsblk
+    To format a USB drive with FAT32 file system, use: -> sudo mkfs.vfat /dev/sdb1
+    To format a USB drive using the NTFS file system run:-> sudo mkfs.ntfs /dev/sdb1
+    To format a USB drive in accordance with the exFAT file system -> sudo mkfs.exfat /dev/sdb1
+    Confirm the formatting process has completed successfully: -> 
+       sudo umount /dev/sdy1       or by my      sudo umount /dev/sdb
+       sudo mkfs.vfat -F 32 /dev/sdy1            sudo mkfs.vfat -F 32 /dev/sdb
+                                                 sudo mkfs.ntfs /dev/sdb -> sudo fsck /dev/sdb1
+    30 DVD  
+       - Switch charging hub. Power on the hub. 
+       - Set DVD  Super Voice
+       - NOT IDISK
+    31.  DISK_60 - now only linux 
+    29.Ttransparent background image file 
+    - online  
+    - Pinta: -> 
+      - Palett - Click to select primary/second color 
+        ->#000000 and all -> 0 zero
+      - File -> New -> background: -> Ttransparent
+      - Tools -> Color Picker over ttransparent area -> Paint Bucket 
+        or eraser
+      - Magic Want Select -> area -> Paint Bucket   
+
+      30. Master pdf editor: -> add transparent Stamp
+      - Insert -> Image -> click mouse -> .png file 
+      - Black arrow / Edit document / Alt 1
+      - click mouse over stamp -> in right side show->
+      Geometry Matrix Clipping Path -> go Geometry -. Rotate ->
+      but onli Toni 97 becose is inset image. Other is a stamp.
+      - stop create backup file -> General -> System -> check box ->
+        Create backup file 
+    31. How to keep application running after closing the terminal?
+          https://askubuntu.com/questions/650040/how-to-keep-application-running-after-closing-the-terminal
+         - nohup volume > /dev/null &
+           disown 
+         - /home/inter/work/proc/volume.sh &
+           disown 
+           exit
+         - exec /home/inter/work/proc/volume.sh & exit
+     32. Variable 
+          my_array=(one two three)
+          b1='' ;  b2='' ;  b3=''
+          for i in ${!my_array[@]}; do
+              b$i=$(echo "${my_array[$i]}")
+              b$i="${my_array[$i]}"
+            sleep 1
+          done
+          echo $b0 ; echo $b1 ; echo $b2
+          Execute variable in terminal
+          eval $b0  ; echo $b0 | bash
+      33. gdrive
+          I. Install
+       - Download gdrive
+       -> wget https://github.com/prasmussen/gdrive/releases/download/2.1.1/gdrive_2.1.1_linux_386.tar.gz 
+       -> cp gdrive_2.1.1_linux_386.tar.gz ~/Downloads
+       -> rm ~/gdrive_2.1.1_linux_386.tar.gz 
+       -> tar -xvf /home/kosy/Downloads/gdrive_2.1.1_linux_386.tar.gz 
+       -> cd ~/Downloads
+       -> mkdir ~/gdrive 
+       -> chmod +x ~/gdrive
+          mkdir ~/gdrive/work && mkdir ~/gdrive/work/comedy  && mkdir ~/gdrive/work/html &&  mkdir ~/gdrive/work/proc
+          mkdir ~/gdrive/work/library &&  mkdir ~/gdrive/work/library/bookmarks && mkdir ~/gdrive/work/library/bookmarks/browser
+           
+       -> sudo install gdrive /usr/local/bin
+       -> gdrive about   or   gdrive list -> add code
+       -   Go to the following url in your browser:
+       -> https://accounts.google.com/o/oauth2/auth?access_type=offline&client_id=367116221053-7n0vf5akeru7on6o2fjinrecpdoe99eg.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&state=state
+       Login in with   si.mirchev04@gmail.com    di0
+       - Show
+       project-367116221053 wants to access your Google Account
+       
+       si.mirchev04@gmail.com
+       This will allow project-367116221053 to:
+       
+       See, edit, create, and delete all of your Google Drive files
+       Make sure you trust project-367116221053
+       You may be sharing sensitive info with this site or app. You can always see or remove access in your        Google Account.       
+       Learn how Google helps you share data safely.
+       See project-367116221053’s Privacy Policy and Terms of Service.
+
+                 Cance                       Allow 
+       -> Click Allow
+       - Show:
+
+       Make sure you trust project-367116221053
+       project-367116221053 is requesting access to your Google Account. To protect your account, don’t continue unless you know and trust this app.
+       Sign in or provide access to project-367116221053
+       To sign in or provide access:
+       Copy the authorization code from the Authorization code section.
+       Navigate to project-367116221053.
+       Paste the authorization code on the project-367116221053 screen.
+       Authorization code
+       Please copy this code, switch to your application and paste it there:
+       4/1AX4XfWjk2_xOdksLvnCc0gSxDaJUkxDwufydGZQAqYG_82KaIfJOS-OTX4Y
+       Don’t sign in or provide access to project-367116221053
+       If you don’t want to continue, close this window. 
+      -> Copy 4/1AX4XfWjk2_xOdksLvnCc0gSxDaJUkxDwufydGZQAqYG_82KaIfJOS-OTX4Y
+      -> Paste in terminal      
+         Enter verification code:  4/1AX4XfWjk2_xOdksLvnCc0gSxDaJUkxDwufydGZQAqYG_82KaIfJOS-OTX4Y 
+       - If all Ok Show:
+
+          Enter verification code: 4/1AX4XfWjk2_xOdksLvnCc0gSxDaJUkxDwufydGZQAqYG_82KaIfJOS-OTX4Y
+          User: Stefan Mirchev, si.mirchev04@gmail.com
+          Used: 5.5 GB
+          Free: 10.6 GB
+          Total: 16.1 GB
+          Max upload size: 5.2 T
+     -> gdrive upload a1.sh
+        SEE Linux Settings Oline Account !!!!  
+        II. Sync folder
+         -> sudo apt update
+         -> sudo apt install gnome-online-accounts
+         -> chmod +x ~/gdrive/comedy.txt
+
+
+         III. Change user  Change Different Account 
+      - rm -rf ~/.gdrive/token_*.json 
+      - gdrive about   or   gdrive list
+         III. Upload folder 
+      - gdrive upload --recursive  ~/comedy
+    34 Color
+    ** - don't use with white foreground
+   Color                           Foreground  Background
+    Fallback to distro's default    \033[39m    \033[49m
+    Black                           \033[30m    \033[40m
+    Red                             \033[31m    \033[41m
+    Green                           \033[32m    \033[42m
+    Brown / Orange                  \033[33m    \033[43m
+    Blue                            \033[34m    \033[44m
+    Magenta                         \033[35m    \033[45m
+    Cyan                            \033[36m    \033[46m
+    Light Gray                      \033[37m    \033[47m **
+
+    Dark Gray                       \033[90m    \033[100m
+    Light Red                       \033[91m    \033[101m
+    Light Green                     \033[92m    \033[102m
+    Light Yellow                    \033[93m    \033[103m
+    Light Blue                      \033[94m    \033[104m
+    Light Magenta/Pink/Light purple \033[95m    \033[105m
+    Light Cyan  /  Teal             \033[96m    \033[106m
+    White                           \033[97m    \033[107m
+
+
+         00 none       \033[00;30m
+         01 bold       \033[01;30m
+         04 underscore \033[04;30m
+         05 blink      \033[05;30m
+         07 reverse    \033[07;30m
+         08 concealed  \033[08;30m
+   
+
+     Terminal color   -> Wite     
+      col0='\033[48;5;231m' ; printf $col0 ; clear 
+      col0='\033[48;5;255m' ; printf $col0 ; clear 
+      col0='\033[48;5;15m' ; printf $col0 ; clear 
+      printf "\033[31m" ; printf "%2d " "$dNbM" ; printf "\033[01;30m"
+      printf "\033[41m" ; printf "%2d " "$dNbM" ;  printf $col0 ; printf '\033[01;30m' 
+
+         sudo dpkg-reconfigure console-setup
+      ❗❗❗    Check color ➡️/home/kosy/work/library/Pinta/examples.doc
+    35.  $1 
+                fullfile=$1
+                fname=$(basename $fullfile)
+                fbname=${fname%.*}
+                echo $fbname
+             zenity --info --text $fullfile
+             zenity --info --text $fname
+             zenity --info --text $fbname
+    36. host name domain  = 192.168.0.207
+    37. GREP - count appearances in string any string
+
+    check install app check install program  -> apt-cache policy viber or  dpkg-query -l viber 
+This one-liner returns 1 (installed) or 0 (not installed) for the 'nano' package.
+(dpkg-query -W -f='${Status}' nano 2>/dev/null | grep -c "ok installed")
+list all install apps -> dpkg --get-selections
+apt list openvpn --installed  ; apt list smplayer --installed
+    38. sudo apt install webcam 
+    39. Disk check : Disks
+    I. On top ->                      512 GB Hard Disk /dev/sda -> Total size 
+  III. Filesystem         Partition 1 149 GB Ext4 
+  III. Filesystem         Partition 2 242 GB Ext4 
+   IV. Free Space                     121 GB  
+
+    I. On top ->                      34 GB Hard Disk /dev/sda -> Total size 
+   II. Extended Partition Partition 2 23 GB 
+  III. Filesystem         Partition 5 23 GB Ext4 
+   IV. Free Space                     11 GB - Rmove next text
+
+ Extend Virtualbox disk increase expand storage the Disk Size Resize
+ 1. in VirtualBox -> File -> virtual Media Manadger = Ctrl+D
+ 2. Linux -> linux settings -> Disks -> Click on External/Filesystem partition 
+   -> Additional Partition Options /zybchati kolelca/ -> Resize ->
+   -> Freespace folloeing  "-" = 0.0 GB -> Resize/red/
+    40. RUN = Alt+F12 = 
+     =  #!/bin/bash
+        set -x
+        COMMAND=$( zenity --entry --text="What to run?" )
+        /bin/sh -c "$COMMAND" &
+
+   '
+'
+The following script will check the number is
+Even or odd by dividing the number by 2 and checking the remainder value
+   '
+    multiline comments
+   '
+    41. Sublime_text  sublime_text Preferences 
+ {
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+    "fallback_encoding": "Cyrillic (Windows 1251)",
+    "default_encoding": "Cyrillic (Windows 1251)",
+    "show_encoding": true,
+    "dictionary": "Dictionaries/bg_BG.dic",
+    "draw_white_space": "all",
+    "font_size": 12,
+    "open_files_in_new_window": true,
+    "hot_exit": false,
+    "remember_full_screen": true,
+    "remember_open_files": false,
+    "spell_check": false,
+    "theme": "Adaptive.sublime-theme",
+    "update_check": false,
+    "caret_style": "solid",
+    "remember_workspace": true,
+ }  
+   WINDOWS
+  {
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+    "fallback_encoding": "Cyrillic (Windows 1251)",
+    "default_encoding": "Cyrillic (Windows 1251)",
+    "show_encoding": true,
+    "dictionary": "Dictionaries/bg_BG.dic",
+    "draw_white_space": "all",
+    "font_size": 12,
+    "open_files_in_new_window": true,
+    "hot_exit": false,
+    "remember_full_screen": true,
+    "remember_open_files": false,
+    "show_encoding": true,
+    "spell_check": false,
+    "theme": "Adaptive.sublime-theme",
+    "update_check": false,
+    "caret_style": "solid",
+    "remember_workspace": true,
+  }
+
+ Preferences -> Key Bindings 
+
+
+
+ WINDOWS 
+ Chage the default editor used for editing batch files
+ HKEY_CLASSES_ROOT\batfile\shell\edit\command = C:\DISC\HLP\BATEXE\SUBOPEN.exe  %1
+   42  Check error
+    if [ $? -eq 0 ]; then yad -info --text OK  --timeout=5 ; else yad -info --text FAIL  --timeout=5  ; fi 
+   43. uppercase 
+      str="Some string" ; printf '%s\n' "$str" | awk '{ print toupper($0) }'
+      big to small letter  ->  echo "lowercase" | tr A-Z a-z 
+      small to upper letter ->  echo "lowercase" | tr a-z A-Z
+   44. XY coordi      5.3cm =300    1cm = 56
+                   ┌──────────┐
+                   │          │ 
+                   │          │ 1cm =55
+                   │          │ 
+                   └──────────┘                      cm
+  export X1=$(printf %.0f\\n $(echo "scale=4; (($X0-(5.3*56))*0.50)" | bc -l ))
+  export Y1=$(printf %.0f\\n $(echo "scale=4; (($Y0-(1.8*55))*0.93)" | bc -l ))
+   45.  exit do done cicle ->
+        if [ -f "$HOME/work/proc/aaa.txt" ] ; then  rm ~/work/proc/aaa.txt ; fi
+        --field="<span font='Serif 12' foreground='black' background='#F5F5F5'> $temp0$temp1    
+        </span>:FBTN"  'bash -c  "echo '' > ~/work/proc/aaa.txt" '
+        if [ -f "$HOME/work/proc/aaa.txt" ] ; then  sleep 0.5 ; wmctrl -c CPU TEMPERATURE ; wmctrl -c FAN ; exit ; fi
+        see -> /home/kosy/work/proc/systemp.sh
+
+  46 Run Start program  Run Start sh file  Run Start program  shortcut
+       /home/inter/work/proc/calendar.sh -run
+        gio launch /home/$USER/'VirtualBox/INTERNET.desktop' 
+   47  Capital letter  ->        echo "lowercase" | tr a-z A-Z
+   48  GTK  CURSOR
+   * { -GtkWidget-cursor-aspect-ratio: 0.1; caret-color: red; }
+   49  
+   50 азбука alphabet А́ а́ Ъ́ ъ́ О́ о́ У́ у́ Е́ е́ И́ и́ Ю́ ю́ Я́ я́
+🏁   ----------------- BASH ZSH COMMANDS END ----------------
+
+
+
+  I. ASUS VivoBook M513IA-WB711T 
+       After Default(F5) BIOS - Advanced Mode(F7) -> security -> Secure Boot -> Secure Boot Control Discard
+     - ANTI-GLARE, 1920X1080, 39.6CM, PA3MEP HA EK^AHA B INCH 15.6"
+     - AMD RYZEN 7 4700U 2.0-4.1 GHz, 
+     - RAM 8 GB, DDR4
+     - SSD 512 GB, AMD RADEON GRAPHICS
+     - ГРАФИЧНА КАРТА: AMD RADEON GRAPHICS 
+     - 802 11AC BT4 1, 2xUSB2.0,1xUSB3 1 A.1xUSB3 1,
+     - CARD READER. HDMI, VEB KAMEPA. 720P HD
+     - ТЕГЛО: 1.800KG, 
+     - БАТЕРИЯ 3 CELL LI-ION
+
+    10. RUBY www.ruby-lang.org/en/documentation/installation
+           /https://www.learnenough.com/git-tutorial/getting_started/
+
+
+       Learn Enough Git to Be Dangerous
+       An Introduction to Version Control with Git (12 kB)
+       https://softcover.s3.amazonaws.com/636/learn_enough_git/images/cover-web.png
+       ps://www.learnenough.com/command-line-tutorial/basics
+       Softcover.ioSoftcover.io
+       Learn Enough Command Line to Be Dangerous
+       A tutorial introduction to the Unix command line (14 kB)
+       https://www.learnenough.com/git-tutorial/getting_started
+       Softcover.ioSoftcover.io
+       Learn Enough Git to Be Dangerous
+
+
+
+2-----------------------------------------------------------------------------------
+                                            HOTKEY
+
+  !!!!!!!!!!!!!!!!!!!!!!!  I ZaStartup Aplication     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ - export : 
+ dconf dump /org/cinnamon/desktop/keybindings/ > ~/work/library/hlp/dconf-settings.conf
+ - import : 
+ dconf load /org/cinnamon/desktop/keybindings/ < ~/work/library/hlp/dconf-settings.conf
+ dconf load /org/cinnamon/desktop/keybindings/ < /work/library/bookmarks/inter/dconf-settings.conf
+ 
+
+
+    Shift+Alt+7   | TOP -I         |     gnome-terminal --geometry=80x31+510+10 -- /home/kosy/work/proc/a1.sh
+    Alt+Super+M   | Magnify        |     /home/kosy/work/proc/magnify.sh
+    Alt+Super+D   | DICTIONARY     |     /home/kosy/work/library/hot/dict.sh
+    Alt+Super+H   | SUBLIME_HELP   | xed /home/kosy/work/library/sublime/menual.txt
+    Shift+Alt+4   | 8min           |     /home/kosy/work/proc/4-8min.sh
+    Alt+Super+S   | SAVER.docx     | libreoffice --writer --norestore /home/kosy/work/library/hlp/saver.docx
+    Alt+Super+l   | LCL            | /home/kosy/work/proc/lcl.sh
+    Ctrl+NumLK    | NUMLOCK            | /home/kosy/work/proc/numlock.sh
+
+   Shift+Ctrl+M    | Terminal -> Edit -> Preferences -> Shortcuts -> Heden and Show Menubar
+   
+   not  Alt+Super+↓   |windowminimize  | xdotool getactivewindow windowminimize
+  
+  *3. run hotKey   -> sudo apt install xdotool
+       https://gitlab.com/cunidev/gestures/-/wikis/xdotool-list-of-key-codes
+
+      - showkey -a  
+  xdotool key Shift+Ctrl+v  ; xdotool key BackSpace ; xdotool key Return ;  
+  xdotool key q ;  min mininmised window -> xdotool getactivewindow windowminimize ;
+  xdotool getactivewindow windowmove 100 100 ; xdotool type 'some text' 
+
+    sleep 1 
+    for i in {1..9}; do  xdotool key Page_Up  ; sleep 0.5 ; done
+    for i in {1..3}; do  xdotool key Tab  ; done  ;;
+    for i in {1..10}; do xdotool key Up ; sleep 1 ; done
+    sleep 1
+    for i in {1..1}; do  xdotool key Page_Down  ; sleep 1 ; done
+    for i in {1..3}; do xdotool key Down ; sleep 0.5 ; done
+    
+    sleep 2 ; xdotool mousemove 1055 234
+    for i in {1..10}; do xdotool click 5 ; sleep 1 ; done
+
+    lastkey  ->  
+    - aa=$(xev | sed -n 's/[ ]*state.* \([^ ]*\)).*/\1/p') 
+      zenity --info --title="PC" --text="<span foreground=\"red\" >$aa</span>"
+    -  xev | grep -A2 --line-buffered '^KeyRelease' | sed -n '/keycode /s/^.*keycode \([0-9]*\).* (.*, \(.*\)).*$/\1 \2/p'
+  Tab tab  key ->
+     xdotool keydown alt ; sleep 0.1 ; xdotool key Tab ; sleep 0.1 ; xdotool key Tab
+    sleep 0.1 ; xdotool keyup alt ; sleep 0.1 ; xdotool key Return 
+    xdotool key Alt+ Tab ->  xdotool keydown alt key Tab; sleep 0.6; xdotool keyup alt  ; super+alt+t -> run user programs
+
+
+  II. STARTUP APLIKATION
+
+   CALENDAR |  gnome-terminal --geometry=20x10+900+400 --tab -- /home/kosy/work/proc/calendar.sh
+   KAlarm   |  kalarmautostart kalarm --tray
+   MacSlow's Cairo-Clock | cairo-clock
+   MEGAsync  | megasync
+   Screensaver | xscreensaver
+   WEATHER     | /home/kosy/work/linux/weather.sh
+   Z_CLOCK     | /home/kosy/work/linux/clock.sh
+
+
+   3---------------------------------------------------------------------------------------
+
+   # Mapping of vt100 escape codes to Keys.
+ANSI_SEQUENCES = {
+    '\x1b': Keys.Escape,
+
+    '\x00': Keys.ControlSpace,  # Control-Space (Also for Ctrl-@)
+    '\x01': Keys.ControlA,  # Control-A (home)
+    '\x02': Keys.ControlB,  # Control-B (emacs cursor left)
+    '\x03': Keys.ControlC,  # Control-C (interrupt)
+    '\x04': Keys.ControlD,  # Control-D (exit)
+    '\x05': Keys.ControlE,  # Contrel-E (end)
+    '\x06': Keys.ControlF,  # Control-F (cursor forward)
+    '\x07': Keys.ControlG,  # Control-G
+    '\x08': Keys.ControlH,  # Control-H (8) (Identical to '\b')
+    '\x09': Keys.ControlI,  # Control-I (9) (Identical to '\t')
+    '\x0a': Keys.ControlJ,  # Control-J (10) (Identical to '\n')
+    '\x0b': Keys.ControlK,  # Control-K (delete until end of line; vertical tab)
+    '\x0c': Keys.ControlL,  # Control-L (clear; form feed)
+    '\x0d': Keys.ControlM,  # Control-M (13) (Identical to '\r')
+    '\x0e': Keys.ControlN,  # Control-N (14) (history forward)
+    '\x0f': Keys.ControlO,  # Control-O (15)
+    '\x10': Keys.ControlP,  # Control-P (16) (history back)
+    '\x11': Keys.ControlQ,  # Control-Q
+    '\x12': Keys.ControlR,  # Control-R (18) (reverse search)
+    '\x13': Keys.ControlS,  # Control-S (19) (forward search)
+    '\x14': Keys.ControlT,  # Control-T
+    '\x15': Keys.ControlU,  # Control-U
+    '\x16': Keys.ControlV,  # Control-V
+    '\x17': Keys.ControlW,  # Control-W
+    '\x18': Keys.ControlX,  # Control-X
+    '\x19': Keys.ControlY,  # Control-Y (25)
+    '\x1a': Keys.ControlZ,  # Control-Z
+
+    '\x1c': Keys.ControlBackslash,  # Both Control-\ and Ctrl-|
+    '\x1d': Keys.ControlSquareClose,  # Control-]
+    '\x1e': Keys.ControlCircumflex,  # Control-^
+    '\x1f': Keys.ControlUnderscore,  # Control-underscore (Also for Ctrl-hypen.)
+    '\x7f': Keys.Backspace,  # (127) Backspace
+    '\x1b[A': Keys.Up,
+    '\x1b[B': Keys.Down,
+    '\x1b[C': Keys.Right,
+    '\x1b[D': Keys.Left,
+    '\x1b[H': Keys.Home,
+    '\x1bOH': Keys.Home,
+    '\x1b[F': Keys.End,
+    '\x1bOF': Keys.End,
+    '\x1b[3~': Keys.Delete,
+    '\x1b[3;2~': Keys.ShiftDelete,  # xterm, gnome-terminal.
+    '\x1b[3;5~': Keys.ControlDelete,  # xterm, gnome-terminal.
+    '\x1b[1~': Keys.Home,  # tmux
+    '\x1b[4~': Keys.End,  # tmux
+    '\x1b[5~': Keys.PageUp,
+    '\x1b[6~': Keys.PageDown,
+    '\x1b[7~': Keys.Home,  # xrvt
+    '\x1b[8~': Keys.End,  # xrvt
+    '\x1b[Z': Keys.BackTab,  # shift + tab
+    '\x1b[2~': Keys.Insert,
+
+    '\x1bOP': Keys.F1,
+    '\x1bOQ': Keys.F2,
+    '\x1bOR': Keys.F3,
+    '\x1bOS': Keys.F4,
+    '\x1b[[A': Keys.F1,  # Linux console.
+    '\x1b[[B': Keys.F2,  # Linux console.
+    '\x1b[[C': Keys.F3,  # Linux console.
+    '\x1b[[D': Keys.F4,  # Linux console.
+    '\x1b[[E': Keys.F5,  # Linux console.
+    '\x1b[11~': Keys.F1,  # rxvt-unicode
+    '\x1b[12~': Keys.F2,  # rxvt-unicode
+    '\x1b[13~': Keys.F3,  # rxvt-unicode
+    '\x1b[14~': Keys.F4,  # rxvt-unicode
+    '\x1b[15~': Keys.F5,
+    '\x1b[17~': Keys.F6,
+    '\x1b[18~': Keys.F7,
+    '\x1b[19~': Keys.F8,
+    '\x1b[20~': Keys.F9,
+    '\x1b[21~': Keys.F10,
+    '\x1b[23~': Keys.F11,
+    '\x1b[24~': Keys.F12,
+    '\x1b[25~': Keys.F13,
+    '\x1b[26~': Keys.F14,
+    '\x1b[28~': Keys.F15,
+    '\x1b[29~': Keys.F16,
+    '\x1b[31~': Keys.F17,
+    '\x1b[32~': Keys.F18,
+    '\x1b[33~': Keys.F19,
+    '\x1b[34~': Keys.F20,
+
+    # Xterm
+    '\x1b[1;2P': Keys.F13,
+    '\x1b[1;2Q': Keys.F14,
+    # '\x1b[1;2R': Keys.F15,  # Conflicts with CPR response.
+    '\x1b[1;2S': Keys.F16,
+    '\x1b[15;2~': Keys.F17,
+    '\x1b[17;2~': Keys.F18,
+    '\x1b[18;2~': Keys.F19,
+    '\x1b[19;2~': Keys.F20,
+    '\x1b[20;2~': Keys.F21,
+    '\x1b[21;2~': Keys.F22,
+    '\x1b[23;2~': Keys.F23,
+    '\x1b[24;2~': Keys.F24,
+
+    '\x1b[1;5A': Keys.ControlUp,     # Cursor Mode
+    '\x1b[1;5B': Keys.ControlDown,   # Cursor Mode
+    '\x1b[1;5C': Keys.ControlRight,  # Cursor Mode
+    '\x1b[1;5D': Keys.ControlLeft,   # Cursor Mode
+
+    '\x1b[1;2A': Keys.ShiftUp,
+    '\x1b[1;2B': Keys.ShiftDown,
+    '\x1b[1;2C': Keys.ShiftRight,
+    '\x1b[1;2D': Keys.ShiftLeft,
+
+    # Tmux sends following keystrokes when control+arrow is pressed, but for
+    # Emacs ansi-term sends the same sequences for normal arrow keys. Consider
+    # it a normal arrow press, because that's more important.
+    '\x1bOA': Keys.Up,
+    '\x1bOB': Keys.Down,
+    '\x1bOC': Keys.Right,
+    '\x1bOD': Keys.Left,
+
+    '\x1b[5A': Keys.ControlUp,
+    '\x1b[5B': Keys.ControlDown,
+    '\x1b[5C': Keys.ControlRight,
+    '\x1b[5D': Keys.ControlLeft,
+
+    '\x1b[200~': Keys.BracketedPaste,  # Start of bracketed paste.
+
+    # Meta + arrow keys. Several terminals handle this differently.
+    # The following sequences are for xterm and gnome-terminal.
+    #     (Iterm sends ESC followed by the normal arrow_up/down/left/right
+    #     sequences, and the OSX Terminal sends ESCb and ESCf for "alt
+    #     arrow_left" and "alt arrow_right." We don't handle these
+    #     explicitely, in here, because would could not distinguesh between
+    #     pressing ESC (to go to Vi navigation mode), followed by just the
+    #     'b' or 'f' key. These combinations are handled in
+    #     the input processor.)
+    '\x1b[1;3D': (Keys.Escape, Keys.Left),
+    '\x1b[1;3C': (Keys.Escape, Keys.Right),
+    '\x1b[1;3A': (Keys.Escape, Keys.Up),
+    '\x1b[1;3B': (Keys.Escape, Keys.Down),
+
+    # Sequences generated by numpad 5. Not sure what it means. (It doesn't
+    # appear in 'infocmp'. Just ignore.
+    '\x1b[E': Keys.Ignore,  # Xterm.
+    '\x1b[G': Keys.Ignore,  # Linux console.
+}
+
+ Google Chrome - > I can't download file Download file is opening the file directly in Chrome browser
+
+ Allow all cookies:
+1. On your computer, open Chrome.
+2. At the top right, click More   Settings.
+3. Under "Privacy and security," click Cookies and other site data.
+4. Select an option:
+   “Allow all cookies”
+That would most likely resolve the concern.
+
+
+WINDOWS 
+
+I. How to remove the login password in browser
+1. netplwiz
+2. ☑️ Users must enter a username and password to use this computer
+3. user -> ACCO  Pass-> 1
+4. Google Chrome browser -> Setting -> Search Password Manager -> Saved passwords
+   -> Select Site
+5. Remove pass Windows -> Control panel-> User Accounts -> Change account type
+6. Click right mouse button -> ACCO Local Account Administrator ->
+   -> Create a password -> follow.
+7. Edit .bat .vbs file  ->  C:\DISC\HLP\BATEXE\SUBOPEN.exe %1
+   HKEY_CLASSES_ROOT\batfile\shell\edit\command
+   HKEY_CLASSES_ROOT\VBSFile\Shell\Edit\Command
+
+
+ 

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<BrowseUseProfile Value="False"/>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TDirCompareSessionDialog Value="689;238;1201;744"/>
+			<TDirLoadErrorDialog Value="655;419;1185;597;105"/>
+			<TDirOpErrorsDialog Value="-10;-8;431;378;105"/>
+			<TExportDialog Value="683;331;1138;695;105"/>
+			<TImportDialog Value="751;360;1149;704"/>
+			<TProfileBrowseDialog Value="265;115;994;796"/>
+			<TProfileManagerDialog Value="576;151;1305;832"/>
+			<TSessionSaveAsDialog Value="681;371;1199;704;105"/>
+			<TViewFrame Value="94;58;1726;942;105"/>
+		</FormPositions>
+	</TBcState>
+	<TCheckForUpdatesState>
+		<Build Value="26655"/>
+		<LastChecked Value="2022-09-13 10:29:10"/>
+		<MsgBody Value="Beyond Compare is not affected by the Log4J vulnerability. Our IT systems are also secured against it."/>
+		<MsgDate Value="2021-12-31 00:00:00"/>
+		<MsgTitle Value="LOG4J"/>
+	</TCheckForUpdatesState>
+	<TDataCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/kosy/.HLP/EBOOK/ADRESI.xls"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Andale Mono;9"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="smb://alen/c/hlp/EBOOK/ADRESI.xls"/>
+		</RightMRUSpecs>
+	</TDataCompareState>
+	<TDirCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/kosy/work"/>
+			<_1 Value="/home/kosy/IDISK/LINUX/32-64"/>
+			<_2 Value="/media/kosy/edb6416f-990a-4bd9-b415-192c077c6a10/PHOTO-02"/>
+			<_3 Value="/media/kosy/edb6416f-990a-4bd9-b415-192c077c6a10/ALLO-01"/>
+			<_4 Value="/media/kosy/edb6416f-990a-4bd9-b415-192c077c6a10/IDISK/LINUX"/>
+			<_5 Value="/home/kosy/work/"/>
+			<_6 Value="/media/kosy/edb6416f-990a-4bd9-b415-192c077c6a10/IDISK"/>
+			<_7 Value="/media/kosy/edb6416f-990a-4bd9-b415-192c077c6a10/ALLO-01/MUSIC/MUSIC_11"/>
+			<_8 Value="/media/kosy/edb6416f-990a-4bd9-b415-192c077c6a10/ALLO-01/MUSIC/DISK_12"/>
+		</LeftMRUSpecs>
+		<MRUFilters>
+			<_0 Value="main.sh"/>
+		</MRUFilters>
+		<RightMRUSpecs>
+			<_0 Value="/home/kosy/.config/bcompare"/>
+			<_1 Value="smb://192.168.0.207/inter-c/work"/>
+			<_2 Value="ftp://android@192.168.0.204:2221//work"/>
+			<_3 Value="ftp://android@192.168.0.204:2221/WORK"/>
+			<_4 Value="ftp://android@192.168.0.205:2221//work"/>
+			<_5 Value="smb://192.168.0.8/idisk/LINUX/32-64"/>
+			<_6 Value="smb://192.168.0.8/work"/>
+			<_7 Value="smb://192.168.0.207/work"/>
+			<_8 Value="smb://192.168.0.202/d/PHOTO-02"/>
+		</RightMRUSpecs>
+	</TDirCompareState>
+	<TDirMergeState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/kosy/.HAND"/>
+			<_1 Value="/home/kosy/.A_KOSY_D/A-VIDEO"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="smb://192.168.0.203/C/HAND"/>
+		</RightMRUSpecs>
+	</TDirMergeState>
+	<TDirSyncState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/kosy/work/"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="smb://192.168.0.202/d/work"/>
+		</RightMRUSpecs>
+	</TDirSyncState>
+	<TExportState>
+		<MRUDir Value="/home/kosy/work/library/hlp"/>
+	</TExportState>
+	<THexCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/kosy/.A_KOSY_D/A-VIDEO/MySQL/04.PHP &amp; MySQL Заявка SELECT.mp4"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Andale Mono;9"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="smb://192.168.0.202/d/A-video/MySQL/04.PHP &amp; MySQL Заявка SELECT.mp4"/>
+		</RightMRUSpecs>
+	</THexCompareState>
+	<THomeState>
+		<SessionName Value="LENOVO"/>
+		<SessionsRatio Value="199"/>
+		<SessionType Value="TDirCompareSession"/>
+		<ShowWeb Value="False"/>
+	</THomeState>
+	<TImportState>
+		<MRUFilename Value="/home/kosy/work/linux/hlp/BCSettings.bcpkg"/>
+	</TImportState>
+	<TPixCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/kosy/work/linux/icon/audio.jpeg"/>
+			<_1 Value="/home/kosy/.PHOTO-02/BURGAS/Slide7.JPG"/>
+			<_2 Value="/home/kosy/.PHOTO-02/BURGAS/Slide2.JPG"/>
+			<_3 Value="/home/kosy/.PHOTO-02/BURGAS/Slide1.JPG"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Sans Serif;9"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="/media/kosy/edb6416f-990a-4bd9-b415-192c077c6a10/PHOTO-02_0/STEFAN-2016/2021/DCIM/100___12/IMG_0032.JPG"/>
+			<_1 Value="smb://192.168.0.207/work/linux/icon/audio.jpeg"/>
+			<_2 Value="smb://192.168.0.203/d/PHOTO-02/BURGAS/image04.jpeg"/>
+			<_3 Value="smb://192.168.0.203/d/PHOTO-02/BURGAS/image01.jpeg"/>
+		</RightMRUSpecs>
+		<ZoomPct Value="35"/>
+	</TPixCompareState>
+	<TSnapshotState>
+		<MRUDir Value="/home/kosy/A_KOSI_C/A_KOSI_C//A_KOSI_C/"/>
+	</TSnapshotState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/kosy/work/linux/sh/trans.sh"/>
+			<_1 Value="/home/kosy/work/linux/sh/a3.sh"/>
+			<_2 Value="/home/kosy/work/linux/sh/calendar.sh"/>
+			<_3 Value="/home/kosy/work/library/linux/wea_cal.sh"/>
+			<_4 Value="/home/kosy/work/linux/hot/4-8min.sh"/>
+			<_5 Value="/home/kosy/work/linux/internet/myweb.sh"/>
+			<_6 Value="/home/kosy/work/ebook/pasport.doc"/>
+			<_7 Value="/home/chefo/work/library/a_my/MEDICAL/Medical Research.pdf"/>
+			<_8 Value="/home/chefo/work/library/php/php_inst.sh"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Andale Mono;9"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="smb://192.168.0.8/work/linux/sh/trans.sh"/>
+			<_1 Value="smb://192.168.0.8/work/linux/sh/a3.sh"/>
+			<_2 Value="smb://192.168.0.8/work/linux/sh/calendar.sh"/>
+			<_3 Value="smb://192.168.0.8/work/library/linux/wea_cal.sh"/>
+			<_4 Value="smb://192.168.0.207/work/linux/hot/4-8min.sh"/>
+			<_5 Value="smb://192.168.0.207/work/linux/internet/myweb.sh"/>
+			<_6 Value="smb://192.168.0.207/work/ebook/pasport.doc"/>
+			<_7 Value="smb://192.168.0.206/work/library/php/php_inst.sh"/>
+			<_8 Value="smb://192.168.0.206/work/library/linux/permi.sh"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
+	<TTextEditState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/kosy/.IDISK/LINUX/LibreOffice/LibreOffice_7.0.4_Win_x86.msi"/>
+			<_1 Value="smb://192.168.0.209/work/linux/hlp/hotkey.txt"/>
+			<_2 Value="smb://192.168.0.202/d/IDISK/ANDROID/06-GOOGLE/IGO/README.txt"/>
+			<_3 Value="smb://192.168.0.209/work/linux/sh/up-ak1.sh"/>
+			<_4 Value="/home/kosy/work/linux/sh/main.sh"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Andale Mono;9"/>
+		</MRUFonts>
+	</TTextEditState>
+	<TTipState>
+		<DontShowAgain Value="[tipFastRefresh]"/>
+	</TTipState>
+</BCState>

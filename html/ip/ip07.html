@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Get Client Machine IP Address using JavaScript and JSON</title>
+  <link rel="stylesheet" href="style.css" />
+<!--  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.js"></script> -->
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+  <script type="text/javascript">
+    var getIPAddress = function() {
+     $.get("https://ipinfo.io", function(response) {
+      alert(response.ip);
+       $("#gfg").html(response.ip);
+    }, "json")
+    };
+  </script>
+</head>
+
+<body>
+  <div>
+  <!--  <a href="#" onclick="getIPAddress()">Cleck to get IP Address</a> -->
+<a href="#" onclick="getIPAddress()"><img src=" ../image/funny80T.gif" style="width:42px;height:42px;"></a> 
+  <center><p id="gfg"></p>  </center>
+  <!--  <a href="default.asp"><img src="funny80T.gif" style="width:42px;height:42px;"></a> -->
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,42 @@
+
+<html>
+
+
+<script>
+
+
+window.addEventListener("load", myFunction);
+window.addEventListener("resize", myFunction);
+
+
+
+
+function myFunction() {
+  if (window.innerWidth <= 800) {
+    document.body.style.backgroundColor = "pink";
+  } else {
+    document.body.style.backgroundColor = "yellow";
+  }
+};
+
+
+</script>
+
+
+<button onclick="resizeBody();">Open Windows</butto>
+
+</html>
+
+
+
+<!--
+<html>
+
+http://google.com/,'','width=400,height=300'
+ 
+  window2=window.open('http://yahoo.com/','','width=400,height=200');
+  window2.moveTo(0, 300);
+  window3=window.open('about:blank','','width=200,height=500');
+  window3.moveTo(400, 0);
+</html>
+-->

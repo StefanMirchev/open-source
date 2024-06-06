@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;   charset=utf-8">
+    <title>Позициониране</title>
+    <STYLE TYPE="text/css">
+    <!--
+    #lr1 {
+      position:absolute; background-color:magenta;
+      top:200px; left:70px; width:200px;
+      height:250px; border-width:2px;
+    }
+    #lr2 {
+      position:absolute; background-color:teal;
+      top:280px; left:250px; width:350px;
+      height:50px; border-width:10px;
+      border-color:silver; border-style:ridge;
+    }
+    all.UP {position:relative; top:-10pt;}
+    all.DOWN {position:relative; top:10pt;}
+    -->
+    </STYLE>
+   </head>
+  <BODY>
+    <P>Текстът в този параграф е изведен с нормално позициониране.</P>
+    <P STYLE="position:relative; left:30px;">Текстът в този параграф е
+     изведен с относително позициониране 30 пиксела в дясно спрямо нормалното позициониране.</P>
+
+
+    <P>Този <SPAN ID=lr1>AAAAAAAAAAAAAAAAAAAAAAAAAA </SPAN></P>
+
+
+<P>Този <SPAN CLASS=DOWN>текст </SPAN>се разполага <SPAN CLASS=UP>нагоре</SPAN>и <SPAN CLASS=DOWN>надолу, </SPAN>нагоре <SPAN CLASS=DOWN>и <SPAN CLASS=DOWN>надолу.</SPAN></SPAN></P>
+
+
+
+    <DIV ID=lr1>
+    <P>Текстов параграф в обособен слой и абсолютно позициониране 200 пиксела надолу и 70 пиксела в дясно.</P> <IMG SRC="images/computer.gif" align=right> <P>Размерите на карето са 250 пиксела височина и 200 пиксела широчина. Цветът на основата е магента с дебелина на рамката 2 пиксела.</P>
+    </DIV>
+    <DIV ID=lr2>
+    <P>Текстов параграф в обособен слой и абсолютно позициониране. Тримерен стил на рамката с дебелина 10 пиксела.</P>
+    </DIV>
+  </BODY>
+</html>

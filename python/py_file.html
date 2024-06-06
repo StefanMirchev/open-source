@@ -1,0 +1,20 @@
+<html>
+
+
+    <head>
+        <title>Running a Python script</title>
+        <?PHP
+        echo shell_exec("~/app.py \"Parameter #1\" \"Parameter #2\"");
+        ?>
+        </head>
+    <body>
+         <py-script src="~/app.py"></py-script>
+             <?PHP
+        echo shell_exec("python app.py");
+        ?>
+
+        <form action = "app.py" method = "GET">
+   <input type = "submit" value = "Run the Program!!!">
+</form>
+    </body>
+</html>

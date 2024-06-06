@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Chrome
+Exec=/opt/chrome/chrome
+Comment=
+Terminal=false
+Icon=/opt/chrome/product_logo_64.png
+Type=Application
+Name[en_US]=Chrome

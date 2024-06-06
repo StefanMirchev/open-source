@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCFileFormats Version="1">
+	<TTextFormat Value="C,C++,C# Source">
+		<Description>
+			<_0 Value="&#2;CPP"/>
+		</Description>
+		<Grammar>
+			<_0 Value="TListTextGrammarItem">
+				<ElementStr Value="&#2;Keyword"/>
+				<Items>
+					<_0 Value="auto"/>
+					<_1 Value="bool"/>
+					<_2 Value="break"/>
+					<_3 Value="case"/>
+					<_4 Value="catch"/>
+					<_5 Value="char"/>
+					<_6 Value="class"/>
+					<_7 Value="const"/>
+					<_8 Value="const_cast"/>
+					<_9 Value="continue"/>
+					<_10 Value="default"/>
+					<_11 Value="define"/>
+					<_12 Value="defined"/>
+					<_13 Value="delete"/>
+					<_14 Value="double"/>
+					<_15 Value="dynamic_cast"/>
+					<_16 Value="elif"/>
+					<_17 Value="else"/>
+					<_18 Value="endif"/>
+					<_19 Value="enum"/>
+					<_20 Value="error"/>
+					<_21 Value="extern"/>
+					<_22 Value="false"/>
+					<_23 Value="float"/>
+					<_24 Value="for"/>
+					<_25 Value="friend"/>
+					<_26 Value="goto"/>
+					<_27 Value="if"/>
+					<_28 Value="ifdef"/>
+					<_29 Value="ifndef"/>
+					<_30 Value="include"/>
+					<_31 Value="inline"/>
+					<_32 Value="int"/>
+					<_33 Value="line"/>
+					<_34 Value="long"/>
+					<_35 Value="new"/>
+					<_36 Value="operator"/>
+					<_37 Value="overload"/>
+					<_38 Value="pragma"/>
+					<_39 Value="private"/>
+					<_40 Value="protected"/>
+					<_41 Value="public"/>
+					<_42 Value="register"/>
+					<_43 Value="reinterpret_cast"/>
+					<_44 Value="return"/>
+					<_45 Value="short"/>
+					<_46 Value="signed"/>
+					<_47 Value="sizeof"/>
+					<_48 Value="static"/>
+					<_49 Value="static_cast"/>
+					<_50 Value="struct"/>
+					<_51 Value="switch"/>
+					<_52 Value="this"/>
+					<_53 Value="true"/>
+					<_54 Value="try"/>
+					<_55 Value="typedef"/>
+					<_56 Value="undef"/>
+					<_57 Value="union"/>
+					<_58 Value="unsigned"/>
+					<_59 Value="virtual"/>
+					<_60 Value="void"/>
+					<_61 Value="volatile"/>
+					<_62 Value="wchar_t"/>
+					<_63 Value="while"/>
+				</Items>
+			</_0>
+			<_1 Value="TBasicTextGrammarItem">
+				<ElementStr Value="&#2;Identifier"/>
+				<CaseSensitive Value="False"/>
+				<IsRegExp Value="True"/>
+				<Text Value="[_a-z]\w*"/>
+			</_1>
+			<_2 Value="TBasicTextGrammarItem">
+				<ElementStr Value="&#2;Number"/>
+				<CaseSensitive Value="False"/>
+				<IsRegExp Value="True"/>
+				<Text Value="(\d+(\.\d+)?(e[+-]?\d+)?)|(0x[a-f\d]+)"/>
+			</_2>
+			<_3 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;String"/>
+				<Text Value="'"/>
+				<Escape Value="92"/>
+				<StopEOL Value="True"/>
+				<StopText Value="'"/>
+			</_3>
+			<_4 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;String"/>
+				<Text Value="&quot;"/>
+				<Escape Value="92"/>
+				<StopEOL Value="True"/>
+				<StopText Value="&quot;"/>
+			</_4>
+			<_5 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;String"/>
+				<Text Value="@&quot;"/>
+				<Escape Value="34"/>
+				<StopText Value="&quot;"/>
+			</_5>
+			<_6 Value="TListTextGrammarItem">
+				<ElementStr Value="&#2;Directive"/>
+				<Items>
+					<_0 Value="#define"/>
+					<_1 Value="#elif"/>
+					<_2 Value="#else"/>
+					<_3 Value="#endif"/>
+					<_4 Value="#error"/>
+					<_5 Value="#if"/>
+					<_6 Value="#ifdef"/>
+					<_7 Value="#ifndef"/>
+					<_8 Value="#include"/>
+					<_9 Value="#line"/>
+					<_10 Value="#pragma"/>
+					<_11 Value="#undef"/>
+				</Items>
+			</_6>
+			<_7 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;Comment"/>
+				<Text Value="//"/>
+				<StopEOL Value="True"/>
+			</_7>
+			<_8 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;Comment"/>
+				<Text Value="/*"/>
+				<StopText Value="*/"/>
+			</_8>
+			<_9 Value="TListTextGrammarItem">
+				<ElementStr Value="&#2;Operator"/>
+				<Items>
+					<_0 Value="{"/>
+					<_1 Value="}"/>
+					<_2 Value="("/>
+					<_3 Value=")"/>
+					<_4 Value="["/>
+					<_5 Value="]"/>
+					<_6 Value="."/>
+					<_7 Value=":"/>
+					<_8 Value=","/>
+					<_9 Value=";"/>
+					<_10 Value="!"/>
+					<_11 Value="?"/>
+					<_12 Value="|"/>
+					<_13 Value="&amp;"/>
+					<_14 Value="+"/>
+					<_15 Value="-"/>
+					<_16 Value="/"/>
+					<_17 Value="*"/>
+					<_18 Value="="/>
+					<_19 Value=">"/>
+					<_20 Value="&lt;"/>
+				</Items>
+			</_9>
+		</Grammar>
+		<Mask Value="*.c;*.cc;*.cpp;*.cs;*.h;*.hpp"/>
+		<TabSize Value="4"/>
+	</TTextFormat>
+	<TTextFormat Value="Registry Dumps">
+		<Description>
+			<_0 Value="&#2;REG"/>
+		</Description>
+		<Grammar>
+			<_0 Value="TListTextGrammarItem">
+				<ElementStr Value="&#2;Keyword"/>
+				<IsRegExp Value="True"/>
+				<Items>
+					<_0 Value="dword"/>
+					<_1 Value="hex(\([0-9a-f]\))?"/>
+				</Items>
+			</_0>
+			<_1 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;String"/>
+				<Text Value="&quot;"/>
+				<Escape Value="92"/>
+				<StopEOL Value="True"/>
+				<StopText Value="&quot;"/>
+			</_1>
+			<_2 Value="TListTextGrammarItem">
+				<ElementStr Value="&#2;Operator"/>
+				<Items>
+					<_0 Value="="/>
+					<_1 Value=":"/>
+				</Items>
+			</_2>
+		</Grammar>
+		<Mask Value="*.ini;*.reg"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;BASH">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;CPP">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;COBOL">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TDataFormat Value="&#2;CSV">
+		<UseRes Value="True"/>
+	</TDataFormat>
+	<TTextFormat Value="&#2;DFM">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;PAS">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;HTML">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;JAVA">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;JS">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TMP3Format Value="&#2;MP3">
+		<UseRes Value="True"/>
+	</TMP3Format>
+	<TDataFormat Value="&#2;MSEXCEL">
+		<UseRes Value="True"/>
+	</TDataFormat>
+	<TTextFormat Value="&#2;MSWORD">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;OPENOFFICE">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;PDF">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;PERL">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TPixFormat Value="&#2;PIX">
+		<UseRes Value="True"/>
+	</TPixFormat>
+	<TTextFormat Value="&#2;PYTHON">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;RTF">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;SORT">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;SQL">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;VB">
+		<UseRes Value="True"/>
+	</TTextFormat>
+	<TTextFormat Value="&#2;XML">
+		<UseRes Value="True"/>
+	</TTextFormat>
+</BCFileFormats>

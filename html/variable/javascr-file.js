@@ -1,0 +1,1 @@
+document.writeln("<h1>Hello World FILE .JS<\/h1>") 
